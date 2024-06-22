@@ -1,0 +1,56 @@
+[
+    {
+        "name": "iphone",
+        "price": 1999,
+        "rating": 4.8,
+        "featured": true
+    },
+    {
+        "name": "iphone15",
+        "price": 19999,
+        "rating": 4.9,
+        "featured": true
+    },
+    {
+        "name": "msi",
+        "price": 39949,
+        "rating": 4.9,
+        "featured": true
+    },
+    {
+        "name": "samsungs24",
+        "price": 39996,
+        "rating": 4.7,
+        "featured": false
+    },
+    {
+        "name": "nokia",
+        "price": 299,
+        "rating": 4.5,
+        "featured": false
+    },
+    {
+        "name": "samsung",
+        "price": 3999,
+        "rating": 4.7,
+        "featured": false
+    },
+    {
+        "name": "msi",
+        "price": 39749,
+        "rating": 4.9,
+        "featured": true
+    },
+    {
+        "name": "realme",
+        "price": 999,
+        "rating": 4.3,
+        "featured": false
+    },
+    {
+        "name": "redme",
+        "price": 2993,
+        "rating": 4.2,
+        "featured": false
+    }
+]
