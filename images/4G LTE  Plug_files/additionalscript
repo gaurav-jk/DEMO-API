@@ -1,0 +1,22 @@
+
+						var imported = document.createElement('script'); 
+						imported.src = 'https://www.googletagmanager.com/gtag/js?id=G-T3RHV6182T';
+						document.head.appendChild(imported);
+						window.dataLayer = window.dataLayer || [];
+						function gtag(){dataLayer.push(arguments);}
+						gtag('js', new Date());
+						gtag('config', 'G-T3RHV6182T');
+						if(window.location.href.includes('checkout/success')){
+							alert('Order Placed Successfully!');
+						}
+					
+
+!function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '1418574308521007'); fbq('track', 'PageView');
+				function deleteCookie(name, path) {
+				    document.cookie = name + "=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=" + path + ";";
+				}
+				var currentPath = window.location.pathname;
+				if (currentPath === '/cart') {
+				    deleteCookie('checkoutCode', '/');
+				}
+			

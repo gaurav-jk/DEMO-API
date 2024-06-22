@@ -1,56 +1,143 @@
 [
     {
-        "name": "iphone",
-        "price": 1999,
-        "rating": 4.8,
-        "featured": true
-    },
-    {
-        "name": "iphone15",
-        "price": 19999,
+        "name": "4G LTE Plug & Router",
+        "details": "4G Router 4G LTE CPE Wi-Fi Router for Home & Personal Computer indoor use",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171894791010434-g-router-inside-box.jpg",
+                "alt": "Inside the box"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171894791556744G-router.jpg",
+                "alt": "Product image"
+            }
+        ],
+        "mrp": 3999,
+        "price": 1300,
+        "discount": 67,
+        "featured": true,
         "rating": 4.9,
-        "featured": true
+        "company": "JENIX"
     },
     {
-        "name": "msi",
-        "price": 39949,
-        "rating": 4.9,
-        "featured": true
-    },
-    {
-        "name": "samsungs24",
-        "price": 39996,
+        "name": "UHF RFID Tag Inlay",
+        "details": "long range UHF rfid tag Iso18000-6C Long Range Adhesive Inlay Label , PET material (Pack of 1000)",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17189471007790a7c4daf1-e324-4007-88f7-0de060b99458.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 33000,
+        "price": 15000,
+        "discount": 55,
+        "featured": true,
         "rating": 4.7,
-        "featured": false
+        "company": "JENIX"
     },
     {
-        "name": "nokia",
-        "price": 299,
-        "rating": 4.5,
-        "featured": false
+        "name": "CareCam 360° Security Camera",
+        "details": "CareCam 360° Smart Pan Tilt Home Office WiFi Wireless Indoor Security 360° 3 Mp Camera | Color Night Vision | Up to 128 Gb Microsd Card supported | Motion Detection",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17184298596068hD3.jpg",
+                "alt": "Inside the box"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17184298669937color-night.jpg",
+                "alt": "Product image"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17184298708140carecam.jpg",
+                "alt": "Product image"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17184298765795careca-audio.jpg",
+                "alt": "Product image"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17184298812126motion.jpg",
+                "alt": "Product image"
+            }
+        ],
+        "mrp": 3999 ,
+        "price": 1199,
+        "discount": 70,
+        "featured": true,
+        "rating": 4.6,
+        "company": "JENIX"
     },
     {
-        "name": "samsung",
+        "name": "Jenix Tuya Smart WiFi Relay Module",
+        "details": "Jenix Tuya Smartlife app wifi relay kit lock PCB 433 Mhz Universal Wireless Remote Control Switch DC 12V Wifi 1CH Relay Receiver Module",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17178407092400Wifi-Lock-Relay-PCB.jpg",
+                "alt": "Inside the box"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17178407169059ch-Wifi-Mobile-app-lock-relay.jpg",
+                "alt": "Product image"
+            }
+            ,
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17178407224242Access-control-Lock-PCB-conneciton.jpg",
+                "alt": "Product image"
+            }
+        ],
+        "mrp": 3999,
+        "price": 1249,
+        "discount": 69,
+        "featured": true,
+        "rating": 4.7,
+        "company": "JENIX"
+    },
+    {
+        "name": "Smart Glass Door Lock",
+        "details": "Smart Glass Door Lock Digital Glass Lock ,Unlock by Bluetooth, Mobile App, Fingerprint, PIN, RFID Card for 10-12 mm Glass Doors only",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17169650832481Front-SMart-Glass-Door-Lock.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 10999,
         "price": 3999,
+        "discount": 64 ,
+        "featured": true,
         "rating": 4.7,
-        "featured": false
+        "company": "JENIX"
     },
     {
-        "name": "msi",
-        "price": 39749,
+        "name": "Jenix Hotel Lock",
+        "details": "jenix Hotel Lock digital smart RFID card BLE hotel room door lock TTLock mobile app hotel managment system compatible lock JX HT 777 - Silver Color - LEFT Inside Open",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17152463637640hotel-rfid-door-locks-L.jpg",
+                "alt": "Inside the box"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17152464574235hotel-rfid-lock-1.jpg",
+                "alt": "Product image"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17152464635121hotel-rfid-door-locks-L.jpg",
+                "alt": "Product image"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17152467042289left-hotel-small-size.jpg",
+                "alt": "Product image"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17152467042289left-hotel-small-size.jpg",
+                "alt": "Product image"
+            }
+        ],
+        "mrp": 7950,
+        "price": 3599,
+        "discount": 44,
+        "featured": true,
         "rating": 4.9,
-        "featured": true
-    },
-    {
-        "name": "realme",
-        "price": 999,
-        "rating": 4.3,
-        "featured": false
-    },
-    {
-        "name": "redme",
-        "price": 2993,
-        "rating": 4.2,
-        "featured": false
+        "company": "JENIX"
     }
 ]
