@@ -139,5 +139,413 @@
         "featured": true,
         "rating": 4.9,
         "company": "JENIX"
+    },
+    {
+        "name": "Dimmer",
+        "details": "Dimmer - Smart Wireless WIFI Dimmer | Smart life app |",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17142037844713dimmer.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 1999,
+        "price": 999,
+        "discount": 50,
+        "featured": true,
+        "rating": 4.6,
+        "company": "JENIX"
+    },
+    {
+        "name": "Jenix Smart Wireless Glass Door Lock",
+        "details": "jenix Smart Wireless Glass Door Lock with Remote, Touch Keypad Keyless Electric Security Biometric Fingerprint Password RFID card Swipe Lock Doorbell Function for Home Office JXFGL1 - remote",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17141118026188fee42333-f924-4d30-a8a4-e6078261ab76.jfif",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 29999,
+        "price": 5500,
+        "discount": 82,
+        "featured": true,
+        "rating": 4.5,
+        "company": "JENIX"
+    },
+    {
+        "name": "Contactless Proximity Card Reader",
+        "details": "Contactless card reader Proximity card reader 125 kHz RFID reader with WG26/34 Out to add with door controller IP65 Smart Card Reader- 125khzWG26/34",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17138668725790black-wg26-34-125khz-rfid-contactless-ip65-smart-card-reader-1.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp":315 ,
+        "price": 315 ,
+        "discount": 0,
+        "featured": true,
+        "rating": 4.6,
+        "company": "JENIX"
+    },
+    {
+        "name": "Intelligent 2-Door Access Control Panel",
+        "details": "jenix 2 door intelligent Access Control Card ,Network TCP/IP Access Control Panel Board Reader for Wiegand 4 input 2 Door Access Controller -",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171386643332152-door-front.jpg",
+                "alt": "Inside the box"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171386644156722-door-contrlller-card.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 34999,
+        "price": 4500,
+        "discount": 87,
+        "featured": true,
+        "rating": 4.8,
+        "company": "JENIX"
+    },
+    {
+        "name": "Jenix PVC Camera Mount Bracket",
+        "details": "Jenix PVC Camera Mount Bracket, Anti-Rust Camera Bracket/Stand/Holder for Indoor/Outdoor Dome and Bullet Camera Mount (White)",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17129047175296front.jpg",
+                "alt": "Inside the box"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17129047244561camera-stand.jpg",
+                "alt": "Inside the box"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17129047245586esviz-camera-stand.jpg",
+                "alt": "Inside the box"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17129047258433in-hand-dome-stan.jpg",
+                "alt": "Inside the box"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17129047255940mi-camera-stand.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 399,
+        "price": 199,
+        "discount": 50,
+        "featured": true,
+        "rating": 4.8,
+        "company": "JENIX"
+    },
+    {
+        "name": "WiFi Smart IR Remote Control with Temperature Humidity Sensor Monitor",
+        "details": "WiFi Smart IR Remote Control WiFi Temperature Humidity Sensor Monitor with LCD Display Cover Above 98% IR Device for Air-Conditioned TV Fan etc Smart Life APP Compatible with Alexa Google Assistant",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17128296249737smart-IR-with-temprature-and-humidty-heavy-front.jpg",
+                "alt": "Inside the box"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17128296312124smart-IR-with-temprature-and-humidty-sleeping.jpg",
+                "alt": "Inside the box"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17128296318007smart-IR-with-temprature-and-auto-matic-turn-on-and-off-AChumidty.jpg",
+                "alt": "Inside the box"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17128296322653smart-IR-with-temprature-and-humidty-farnehiete-and-celciaus.jpg",
+                "alt": "Inside the box"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17128296328778smart-IR-with-temprature-and-humidty-universal-remote.jpg",
+                "alt": "Inside the box"
+            },
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17128296326941smart-IR-with-temprature-and-alexa-humidty.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 5499,
+        "price": 1899,
+        "discount": 65,
+        "featured": true,
+        "rating": 4.6,
+        "company": "JENIX"
+    },
+    {
+        "name": "Red Silicone Wristband RFID Tags",
+        "details": "(Pack of 10) Red Color Silicone Wristband RFID Tag For Access Control Swimming Pool And Marathon 13.56MHZ ISO14443A MiFare 1K Pack of 10",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1712812796617535b7220f-056b-48c6-8b5b-28846701981d.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 4999,
+        "price": 1399,
+        "discount": 72,
+        "featured": true,
+        "rating": 4.4,
+        "company": "JENIX"
+    },
+    {
+        "name": "Full Motion TV Wall Mount",
+        "details": "Heavy Duty Rotating Tv Wall Mount For 14 To 42 Inch LED/HD/LCD TV Swivel Type Full Motion TV Wall Mount",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17127516974308tv-wall-mount-bracket.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 799,
+        "price": 399,
+        "discount": 50,
+        "featured": true,
+        "rating": 4.6,
+        "company": "JENIX"
+    },
+    {
+        "name": "Universal LCD/LED TV Moving Wall Mount ",
+        "details": "Universal LCD/LED TV Moving Wall Mount with 180 Degree Rotating for 14 to 26 inch 15 Kg, JS-15",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1712732821628215-wall-mount-stand.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 499,
+        "price": 199,
+        "discount": 60,
+        "featured": true,
+        "rating": 4.6,
+        "company": "JENIX"
+    },
+    {
+        "name": "Ceiling Mount TV Stand",
+        "details": "Ceiling Mount TV Stand Projector , Monitor Mount Height & Angle Adjustable for 26” to 65” - CP413",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17127323247943Ceilling-mount-TV-stand.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 3600,
+        "price": 1999,
+        "discount": 44,
+        "featured": true,
+        "rating": 4.7,
+        "company": "JENIX"
+    },
+    {
+        "name": "Jenix WiFi Tuya Smart Access Control System Kit",
+        "details": "Jenix WiFi Tuya Smart Access Control System Kit RFID Access Controller IP68 Waterproof 13.56MHz Reader + Electric Drop Bolt Lock Full Glass Door, Card, OTP, Phone APP Pasword Unlock - Kit FGL RFID",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17123042146959full-glass-lock-kit.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 11999,
+        "price": 5299,
+        "discount": 56,
+        "featured": true,
+        "rating": 4.8,
+        "company": "JENIX"
+    },
+    {
+        "name": "Jenix WiFi Tuya Smart Access Control System Kit Kit OSBL RFID",
+        "details": "Jenix WiFi Tuya Smart Access Control System Kit RFID Access Controller IP68 Waterproof 13.56MHz Reader + Electric Drop Bolt Lock, Card, OTP, Phone APP Pasword Unlock - Kit OSBL RFID",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17123009386268front.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 11999,
+        "price": 5999,
+        "discount": 50,
+        "featured": true,
+        "rating": 4.8,
+        "company": "JENIX"
+    },
+    {
+        "name": "Mini Relay Wireless Remote Control",
+        "details": "433MHz RF Mini Relay Wireless Remote Control Switch Receiver 1CH, and remote for access control , siren, door lock,",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17122361727302Mini-433Mhz-Chip-reciver-with-remote-1.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 1199,
+        "price": 660,
+        "discount": 45,
+        "featured": true,
+        "rating": 4.4,
+        "company": "JENIX"
+    },
+    {
+        "name": " DC Relay with 1 remote for door",
+        "details": "433Mhz 12V DC Relay with 1 remote for door lock sliding gate motor access control",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171223488432671-remote-1-kit.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 1199,
+        "price": 650,
+        "discount": 46,
+        "featured": true,
+        "rating": 4.9,
+        "company": "JENIX"
+    },
+    {
+        "name": "jenix Access Control Board,Network ",
+        "details": "jenix Access Control Board,Network TCP/IP Access Control Panel Board Reader for Wiegand 1 Door Use Access Controller for Boom Barrier , Sliding Gate Motor, Bank, Factory , Locker room",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17122206498126singe-door-access-controller.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 14999,
+        "price": 4225,
+        "discount": 72,
+        "featured": true,
+        "rating": 4.4,
+        "company": "JENIX"
+    },
+    {
+        "name": "jenix Access Control Board,Network 4 Door Use Access",
+        "details": "jenix Access Control Board,Network TCP/IP Access Control Panel Board Reader for Wiegand 4 Door Use Access Controller",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171212422613414-door-access-controller.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 34999,
+        "price": 6500,
+        "discount": 81,
+        "featured": true,
+        "rating": 4.2,
+        "company": "JENIX"
+    },
+    {
+        "name": "Narrow Style Smart Lock",
+        "details": "Narrow Style Smart Lock (SW) with 5-way Unlock waterproof indoor or outdoor door slim smart lock for aluminium frame door",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17111049112755narrow-smart-lock-for-alumnium-door.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 29999,
+        "price": 10500,
+        "discount": 65,
+        "featured": true,
+        "rating": 4.9,
+        "company": "JENIX"
+    },
+    {
+        "name": "12V to 220V Inverter - 100W",
+        "details": "12V to 220V Inverter - 100W",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1711100570535112V-DC-inverter.jpeg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 999,
+        "price": 400,
+        "discount": 60,
+        "featured": true,
+        "rating": 4.5,
+        "company": "JENIX"
+    },
+    {
+        "name": "jenix hand Held Metal Detector",
+        "details": "jenix hand Held Metal Detector, Portable Light-weight Security Scanner Wand HHMD",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110919433225super-wand-metal-detector.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 3999,
+        "price": 1450,
+        "discount": 64,
+        "featured": true,
+        "rating": 4.7,
+        "company": "JENIX"
+    },
+    {
+        "name": "uhf integrated reader for Parking System",
+        "details": "uhf integrated reader for Parking System Access Control Jewellery tag , Bike race , Horse race Waterproof Integrated tag UHF Reader antenna Access Control long range UHF-pro - RJ45",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17135196676805uhf12-reader.jfif",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 34999,
+        "price": 17500,
+        "discount": 50,
+        "featured": true,
+        "rating": 4.8,
+        "company": "JENIX"
+    },
+    {
+        "name": "vehicle jewellery tag Reader",
+        "details": "vehicle jewellery tag Reader, UHF Passive Electronic Tag RFID Reader for Parking System Access Control Jewellery tag , Bike race , Horse race Waterproof Passive Electronic TAG RFID Integrated Card Reader Access Control range 7 meter -UHF7D - RJ45",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110882369075vehical-detection.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 34999,
+        "price": 12500,
+        "discount": 64,
+        "featured": true,
+        "rating": 4.6,
+        "company": "JENIX"
+    },
+    {
+        "name": "vehicle jewellery tag Reader, UHF Passive Electronic Tag",
+        "details": "vehicle jewellery tag Reader, UHF Passive Electronic Tag RFID Reader for Parking System Access Control Jewellery tag , Bike race , Horse race Waterproof Passive Electronic TAG RFID Integrated Card Reader Access Control range 7 meter -UHF7D- USB",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110877146260B701-application.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 34999,
+        "price": 10500,
+        "discount": 70,
+        "featured": true,
+        "rating": 4.6,
+        "company": "JENIX"
+    },
+    {
+        "name": "boom barrier mild steel powder coated",
+        "details": "boom barrier mild steel powder coated fully automatic boom barrier for parking society factory high rise building , telescopic Boom Barrier Gate with 6 meter Boom and Remote and preventive fall sensor CMP800",
+        "img":   [
+            {
+                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110860511347jenix-boom-barrier-gate.jpg",
+                "alt": "Inside the box"
+            }
+        ],
+        "mrp": 79999,
+        "price": 28500,
+        "discount": 64,
+        "featured": true,
+        "rating": 4.8,
+        "company": "JENIX"
     }
 ]
