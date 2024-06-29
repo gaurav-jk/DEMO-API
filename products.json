@@ -1,551 +1,2594 @@
-[
-    {
-        "name": "4G LTE Plug & Router",
-        "details": "4G Router 4G LTE CPE Wi-Fi Router for Home & Personal Computer indoor use",
-        "img":   [
+{
+    "categories": {
+        "Surveillance": [
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171894791010434-g-router-inside-box.jpg",
-                "alt": "Inside the box"
+                "name": "CareCam 360° Smart Pan Tilt Home Office WiFi Wireless Indoor Security 360° 3 Mp Camera | Color Night Vision | Up to 128 Gb Microsd Card supported | Motion Detection",
+                "details": "[Full- HD] -  3 megapixel, 10m/33ft night vision and pan/tilt 360° monitoring provide seamless protection day and night.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17184298596068hD3.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3999,
+                "price": 1199,
+                "discount": 70,
+                "rating": 4.5
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171894791556744G-router.jpg",
-                "alt": "Product image"
-            }
-        ],
-        "mrp": 3999,
-        "price": 1300,
-        "discount": 67,
-        "featured": true,
-        "rating": 4.9,
-        "company": "JENIX"
-    },
-    {
-        "name": "UHF RFID Tag Inlay",
-        "details": "long range UHF rfid tag Iso18000-6C Long Range Adhesive Inlay Label , PET material (Pack of 1000)",
-        "img":   [
-            {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17189471007790a7c4daf1-e324-4007-88f7-0de060b99458.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 33000,
-        "price": 15000,
-        "discount": 55,
-        "featured": true,
-        "rating": 4.7,
-        "company": "JENIX"
-    },
-    {
-        "name": "CareCam 360° Security Camera",
-        "details": "CareCam 360° Smart Pan Tilt Home Office WiFi Wireless Indoor Security 360° 3 Mp Camera | Color Night Vision | Up to 128 Gb Microsd Card supported | Motion Detection",
-        "img":   [
-            {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17184298596068hD3.jpg",
-                "alt": "Inside the box"
+                "name": "J1000 Aluminium Alloy Universal Camera Wall Mounting Bracket stand for CCTV Security Camera/IP Camera/Dome Camera - J Mount stand",
+                "details": "Model J1000 Lenght total 1000mm",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17091900879954J1000.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 950,
+                "discount": 68,
+                "rating": 4.2
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17184298669937color-night.jpg",
-                "alt": "Product image"
+                "name": "J 600 Aluminium Alloy Universal Camera Wall Mounting Bracket stand for CCTV Security Camera/IP Camera/Dome Camera - J Mount stand - Copy",
+                "details": "Model J600 Lenght total 600mm",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17091900069631J600.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 999,
+                "price": 699,
+                "discount": 30,
+                "rating": 4.0
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17184298708140carecam.jpg",
-                "alt": "Product image"
+                "name": "Aluminium Alloy Universal Camera Wall Mounting Bracket stand for CCTV Security Camera/IP Camera/Dome Camera - J Mount stand",
+                "details": "Model J500 Lenght total 500mm",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/170918938743486a5286aa-ddd8-42ad-8c81-a304a0489a5d.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 999,
+                "price": 599,
+                "discount": 40,
+                "rating": 4.3
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17184298765795careca-audio.jpg",
-                "alt": "Product image"
+                "name": "CCTV Camera cage , outdoor CCTV camera protection from monkey - Pack of 5 Nos.",
+                "details": "CCTV Camera cage  Dimensions 200x200mm base , depth 175mm",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16939854591983IMG-20230906-WA0010.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1099,
+                "price": 1099,
+                "discount": 0,
+                "rating": 4.4
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17184298812126motion.jpg",
-                "alt": "Product image"
-            }
-        ],
-        "mrp": 3999 ,
-        "price": 1199,
-        "discount": 70,
-        "featured": true,
-        "rating": 4.6,
-        "company": "JENIX"
-    },
-    {
-        "name": "Jenix Tuya Smart WiFi Relay Module",
-        "details": "Jenix Tuya Smartlife app wifi relay kit lock PCB 433 Mhz Universal Wireless Remote Control Switch DC 12V Wifi 1CH Relay Receiver Module",
-        "img":   [
-            {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17178407092400Wifi-Lock-Relay-PCB.jpg",
-                "alt": "Inside the box"
+                "name": "jenix waterproof outdoor PVC pole mount rack 11x9x4.5 inch for media converter , poe switch , battery , charger , adaptor 11x9x4.5 PM",
+                "details": "11x9x4.5 inch size with inbuilt 2 power socket and 1 Power cable  Pole mount with 2 numbers Steel Ring size 200 mm long ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16761867581059waterproof-pole-moutn-rack.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1599,
+                "price": 1199,
+                "discount": 25,
+                "rating": 4.6
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17178407169059ch-Wifi-Mobile-app-lock-relay.jpg",
-                "alt": "Product image"
-            }
-            ,
-            {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17178407224242Access-control-Lock-PCB-conneciton.jpg",
-                "alt": "Product image"
-            }
-        ],
-        "mrp": 3999,
-        "price": 1249,
-        "discount": 69,
-        "featured": true,
-        "rating": 4.7,
-        "company": "JENIX"
-    },
-    {
-        "name": "Smart Glass Door Lock",
-        "details": "Smart Glass Door Lock Digital Glass Lock ,Unlock by Bluetooth, Mobile App, Fingerprint, PIN, RFID Card for 10-12 mm Glass Doors only",
-        "img":   [
-            {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17169650832481Front-SMart-Glass-Door-Lock.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 10999,
-        "price": 3999,
-        "discount": 64 ,
-        "featured": true,
-        "rating": 4.7,
-        "company": "JENIX"
-    },
-    {
-        "name": "Jenix Hotel Lock",
-        "details": "jenix Hotel Lock digital smart RFID card BLE hotel room door lock TTLock mobile app hotel managment system compatible lock JX HT 777 - Silver Color - LEFT Inside Open",
-        "img":   [
-            {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17152463637640hotel-rfid-door-locks-L.jpg",
-                "alt": "Inside the box"
+                "name": "DVR rack 13x11x5 waterproof",
+                "details": "Waterproof Outdoor Rack ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16717729087943IMG-20221223-WA0004.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1199,
+                "price": 699,
+                "discount": 42,
+                "rating": 4.1
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17152464574235hotel-rfid-lock-1.jpg",
-                "alt": "Product image"
+                "name": "4G sim card camera - v380 3MP PTZ",
+                "details": "3MP Starlight V380 Pro Outdoor Camera 4G Sim Card LTE Security 4G IP HD CCTV PTZ Camera",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166989056421594g-camera-waterproof.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3799,
+                "price": 3799,
+                "discount": 0,
+                "rating": 4.7
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17152464635121hotel-rfid-door-locks-L.jpg",
-                "alt": "Product image"
+                "name": "jenix cctv camera - 4MP IP camera audio mic color night vision smart flash light on human detection outdoor bullet camera",
+                "details": "4MP POE IP camera work with any NVR - standard ONVIF",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16697862014412bullet-camera-onvif-jenix.png",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 7999,
+                "price": 2899,
+                "discount": 64,
+                "rating": 4.8
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17152467042289left-hotel-small-size.jpg",
-                "alt": "Product image"
+                "name": "jenix cctv camera - 4MP IP camera audio mic color night vision smart flash light on human detection indoor dome camera",
+                "details": "4MP POE IP camera work with any NVR - standard ONVIF",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16697838075420Jenix-CCTV-Camera-4MP-AUDIO-VIDEO-IP-CAMERA.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 7999,
+                "price": 3499,
+                "discount": 56,
+                "rating": 4.9
+            }
+        ],
+        "Access Control (Lock)": [
+            {
+                "name": "Jenix Tuya Smartlife app wifi relay kit lock PCB 433 Mhz Universal Wireless Remote Control Switch DC 12V Wifi 1CH Relay Receiver Module",
+                "details": "1 channel WIFI & 433Mhz RF Wireless Inching Relay Switch, Add wifi and 433mhz remote control to your garage door fireplace, can pair with RF as a channel, convenient for children and elder.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17178407092400Wifi-Lock-Relay-PCB.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3999,
+                "price": 1249,
+                "discount": 69,
+                "rating": 4.5
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17152467042289left-hotel-small-size.jpg",
-                "alt": "Product image"
-            }
-        ],
-        "mrp": 7950,
-        "price": 3599,
-        "discount": 44,
-        "featured": true,
-        "rating": 4.9,
-        "company": "JENIX"
-    },
-    {
-        "name": "Dimmer",
-        "details": "Dimmer - Smart Wireless WIFI Dimmer | Smart life app |",
-        "img":   [
-            {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17142037844713dimmer.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 1999,
-        "price": 999,
-        "discount": 50,
-        "featured": true,
-        "rating": 4.6,
-        "company": "JENIX"
-    },
-    {
-        "name": "Jenix Smart Wireless Glass Door Lock",
-        "details": "jenix Smart Wireless Glass Door Lock with Remote, Touch Keypad Keyless Electric Security Biometric Fingerprint Password RFID card Swipe Lock Doorbell Function for Home Office JXFGL1 - remote",
-        "img":   [
-            {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17141118026188fee42333-f924-4d30-a8a4-e6078261ab76.jfif",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 29999,
-        "price": 5500,
-        "discount": 82,
-        "featured": true,
-        "rating": 4.5,
-        "company": "JENIX"
-    },
-    {
-        "name": "Contactless Proximity Card Reader",
-        "details": "Contactless card reader Proximity card reader 125 kHz RFID reader with WG26/34 Out to add with door controller IP65 Smart Card Reader- 125khzWG26/34",
-        "img":   [
-            {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17138668725790black-wg26-34-125khz-rfid-contactless-ip65-smart-card-reader-1.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp":315 ,
-        "price": 315 ,
-        "discount": 0,
-        "featured": true,
-        "rating": 4.6,
-        "company": "JENIX"
-    },
-    {
-        "name": "Intelligent 2-Door Access Control Panel",
-        "details": "jenix 2 door intelligent Access Control Card ,Network TCP/IP Access Control Panel Board Reader for Wiegand 4 input 2 Door Access Controller -",
-        "img":   [
-            {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171386643332152-door-front.jpg",
-                "alt": "Inside the box"
+                "name": "Smart Glass Door Lock Digital Glass Lock ,Unlock by Bluetooth, Mobile App, Fingerprint, PIN, RFID Card for 10-12 mm Glass Doors only",
+                "details": "360° Fingerprint sensor - 0.4 sec. unlocking speed || Register Up-to 50 fingerprints in the lock. Mobile APP. - This lock completely operate through mobile application. Add/Del. any user, unlocking records, Bluetooth unlocking.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17169650832481Front-SMart-Glass-Door-Lock.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 10999,
+                "price": 3999,
+                "discount": 64,
+                "rating": 4.0
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171386644156722-door-contrlller-card.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 34999,
-        "price": 4500,
-        "discount": 87,
-        "featured": true,
-        "rating": 4.8,
-        "company": "JENIX"
-    },
-    {
-        "name": "Jenix PVC Camera Mount Bracket",
-        "details": "Jenix PVC Camera Mount Bracket, Anti-Rust Camera Bracket/Stand/Holder for Indoor/Outdoor Dome and Bullet Camera Mount (White)",
-        "img":   [
-            {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17129047175296front.jpg",
-                "alt": "Inside the box"
+                "name": "jenix Hotel Lock digital smart RFID card BLE hotel room door lock TTLock mobile app hotel managment system compatible lock JX HT 777 - Silver Color - LEFT Inside Open",
+                "details": "Smart BLE RFID door lock for hotel room : Works with cards that unlock and lock doors,  work with bluetooth as well as wifi using wifi private gateway ( gateway not included with this lock, wifi gateway model JXGWTTW01) . ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17152463637640hotel-rfid-door-locks-L.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 7950,
+                "price": 3599,
+                "discount": 55,
+                "rating": 4.3
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17129047244561camera-stand.jpg",
-                "alt": "Inside the box"
+                "name": "jenix Smart Wireless Glass Door Lock with Remote, Touch Keypad Keyless Electric Security Biometric Fingerprint Password RFID card Swipe Lock Doorbell Function for Home Office JXFGL1 - remote",
+                "details": "❤ALL-IN-ONE SMART LOCK: A variety of ways to open the door, Extreme speed semiconductor fingerprint recognition,",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17141118026188fee42333-f924-4d30-a8a4-e6078261ab76.jfif",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 29999,
+                "price": 5500,
+                "discount": 82,
+                "rating": 4.7
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17129047245586esviz-camera-stand.jpg",
-                "alt": "Inside the box"
+                "name": "Jenix WiFi Tuya Smart Access Control System Kit RFID Access Controller IP68 Waterproof 13.56MHz Reader + Electric Drop Bolt Lock Full Glass Door, Card, OTP, Phone APP Pasword Unlock - Kit FGL RFID",
+                "details": "❤ Supports 10,000 large user capacity. Supports RFID Cards, Password, RFID Card plus Password, Tuya APP verification mode. The door can be set normally open mode.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17123042146959full-glass-lock-kit.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 11999,
+                "price": 5299,
+                "discount": 56,
+                "rating": 4.4
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17129047258433in-hand-dome-stan.jpg",
-                "alt": "Inside the box"
+                "name": "Jenix WiFi Tuya Smart Access Control System Kit RFID Access Controller IP68 Waterproof 13.56MHz Reader + Electric Drop Bolt Lock, Card, OTP, Phone APP Pasword Unlock - Kit OSBL RFID",
+                "details": "❤ Supports 10,000 large user capacity. Supports RFID Cards, Password, RFID Card plus Password, Tuya APP verification mode. The door can be set normally open mode.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17123009386268front.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 11999,
+                "price": 5999,
+                "discount": 50,
+                "rating": 4.2
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17129047255940mi-camera-stand.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 399,
-        "price": 199,
-        "discount": 50,
-        "featured": true,
-        "rating": 4.8,
-        "company": "JENIX"
-    },
-    {
-        "name": "WiFi Smart IR Remote Control with Temperature Humidity Sensor Monitor",
-        "details": "WiFi Smart IR Remote Control WiFi Temperature Humidity Sensor Monitor with LCD Display Cover Above 98% IR Device for Air-Conditioned TV Fan etc Smart Life APP Compatible with Alexa Google Assistant",
-        "img":   [
-            {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17128296249737smart-IR-with-temprature-and-humidty-heavy-front.jpg",
-                "alt": "Inside the box"
+                "name": "433MHz RF Mini Relay Wireless Remote Control Switch Receiver 1CH, and remote for access control , siren, door lock,",
+                "details": "- Standby current: about 0.1 mA (standby mode automatically switches to energy saving state)",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17122361727302Mini-433Mhz-Chip-reciver-with-remote-1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1199,
+                "price": 660,
+                "discount": 45,
+                "rating": 3.8
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17128296312124smart-IR-with-temprature-and-humidty-sleeping.jpg",
-                "alt": "Inside the box"
+                "name": "433Mhz 12V DC Relay with 1 remote for door lock sliding gate motor access control",
+                "details": "Operating Voltage : DC 12V ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171223488432671-remote-1-kit.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1199,
+                "price": 650,
+                "discount": 46,
+                "rating": 3.9
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17128296318007smart-IR-with-temprature-and-auto-matic-turn-on-and-off-AChumidty.jpg",
-                "alt": "Inside the box"
+                "name": "Narrow Style Smart Lock (SW) with 5-way Unlock waterproof indoor or outdoor door slim smart lock for aluminium frame door",
+                "details": "Presenting Narrow Style Series, an expertly designed lock that offers optimal security while ensuring a smooth user experience. Enjoy the convenience of keyless entry and an elegant sleek design.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17111049112755narrow-smart-lock-for-alumnium-door.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 29999,
+                "price": 10500,
+                "discount": 65,
+                "rating": 4.6
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17128296322653smart-IR-with-temprature-and-humidty-farnehiete-and-celciaus.jpg",
-                "alt": "Inside the box"
+                "name": "Surface Mount Door Exit Button - Open Surface door exit button ( bell type rocker switch)",
+                "details": "Surface Mount Door Exit button suitable up to 3 Amp DC Current",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17071373217908eeca2271-64da-43a0-86e7-23482aab6586.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 599,
+                "price": 199,
+                "discount": 67,
+                "rating": 4.0
+            }
+        ],
+        "INTERCOM PABX": [
+            {
+                "name": "Beetel C51 Display Telephone landline phone black color",
+                "details": "Black Landline Telephone landline.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16715990346771C51.jpg",
+                        "alt": "Product image"
+                    },
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16715990654895C51-beetel-original-telephone.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 851,
+                "price": 799,
+                "discount": 6,
+                "rating": 4.1
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17128296328778smart-IR-with-temprature-and-humidty-universal-remote.jpg",
-                "alt": "Inside the box"
+                "name": "RJ11 connector for telephone",
+                "details": "RJ11 connector pack of 50 number",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16641081671789images-25.jpeg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 500,
+                "price": 240,
+                "discount": 52,
+                "rating": 4.3
             },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17128296326941smart-IR-with-temprature-and-alexa-humidty.jpg",
-                "alt": "Inside the box"
+                "name": "RJ11 Telephone Line Wire Patch Cable Compatible for Landline, Telephone (Black) (5 Meters) - Pack of 2 nos",
+                "details": "This is a RJ11 Telephone Cable/Telephone Line Cord. High Quality Telephone Extension Cord Wire.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16641063231235rj11-black-wire-1.jpeg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 400,
+                "price": 225,
+                "discount": 44,
+                "rating": 4.0
             }
         ],
-        "mrp": 5499,
-        "price": 1899,
-        "discount": 65,
-        "featured": true,
-        "rating": 4.6,
-        "company": "JENIX"
-    },
-    {
-        "name": "Red Silicone Wristband RFID Tags",
-        "details": "(Pack of 10) Red Color Silicone Wristband RFID Tag For Access Control Swimming Pool And Marathon 13.56MHZ ISO14443A MiFare 1K Pack of 10",
-        "img":   [
+        "Smart Home Automation": [
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1712812796617535b7220f-056b-48c6-8b5b-28846701981d.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 4999,
-        "price": 1399,
-        "discount": 72,
-        "featured": true,
-        "rating": 4.4,
-        "company": "JENIX"
-    },
-    {
-        "name": "Full Motion TV Wall Mount",
-        "details": "Heavy Duty Rotating Tv Wall Mount For 14 To 42 Inch LED/HD/LCD TV Swivel Type Full Motion TV Wall Mount",
-        "img":   [
+                "name": "Dimmer - Smart Wireless WIFI Dimmer | Smart life app |",
+                "details": "Adjust The Brightness of light or Turn electronics on and off from anywhere with the Smart life app, no hub needed, litt power loss, and long service life. It also works with manual switches as well.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17142037844713dimmer.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1999,
+                "price": 999,
+                "discount": 50,
+                "rating": 4.2
+            },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17127516974308tv-wall-mount-bracket.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 799,
-        "price": 399,
-        "discount": 50,
-        "featured": true,
-        "rating": 4.6,
-        "company": "JENIX"
-    },
-    {
-        "name": "Universal LCD/LED TV Moving Wall Mount ",
-        "details": "Universal LCD/LED TV Moving Wall Mount with 180 Degree Rotating for 14 to 26 inch 15 Kg, JS-15",
-        "img":   [
+                "name": "WiFi Smart IR Remote Control WiFi Temperature Humidity Sensor Monitor with LCD Display Cover Above 98% IR Device for Air-Conditioned TV Fan etc Smart Life APP Compatible with Alexa Google Assistant",
+                "details": "【IR Smart Remote Control】: Compared with other temperature and humidity sensors, we have universal IR smart remote control function, USB power, infrared APP remote control. After setting the control, the smart link will automatically adjust the humidifier or dehumidifier. The screen displays temperature, humidity and date and quickly displays dry / comfortable / humid air. Always let you live in the most comfortable living environment.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17128296249737smart-IR-with-temprature-and-humidty-heavy-front.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 5499,
+                "price": 1899,
+                "discount": 65,
+                "rating": 4.5
+            },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1712732821628215-wall-mount-stand.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 499,
-        "price": 199,
-        "discount": 60,
-        "featured": true,
-        "rating": 4.6,
-        "company": "JENIX"
-    },
-    {
-        "name": "Ceiling Mount TV Stand",
-        "details": "Ceiling Mount TV Stand Projector , Monitor Mount Height & Angle Adjustable for 26” to 65” - CP413",
-        "img":   [
+                "name": "Wifi Main Circuit Breaker (MCB) / Smart Switch overload and short circuit protection for Smart home work with Smart life app (63A 2Pole ) STM63KWh",
+                "details": "Smart Control from Anywhere: Jenix Smart Wifi Breaker works with Alexa, Google Assistant and IFTTT, you can simply control it with voice order when your hand is busy. Turn Your home Electricity on/off from anywhere with mobile devices using the Smart life app, No hub Required , Low power loss and long service life.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17089388249538actual-image.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 5199,
+                "price": 2399,
+                "discount": 54,
+                "rating": 4.3
+            },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17127323247943Ceilling-mount-TV-stand.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 3600,
-        "price": 1999,
-        "discount": 44,
-        "featured": true,
-        "rating": 4.7,
-        "company": "JENIX"
-    },
-    {
-        "name": "Jenix WiFi Tuya Smart Access Control System Kit",
-        "details": "Jenix WiFi Tuya Smart Access Control System Kit RFID Access Controller IP68 Waterproof 13.56MHz Reader + Electric Drop Bolt Lock Full Glass Door, Card, OTP, Phone APP Pasword Unlock - Kit FGL RFID",
-        "img":   [
+                "name": "Jenix waterproof video calling door access control mobile unlock Biometric finger unlock video calling",
+                "details": "Waterproof 12V DC operated Video calling door access control ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/169105309798122342e22b-082e-4256-b6cf-d078cbc922a3.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 10555,
+                "price": 8999,
+                "discount": 15,
+                "rating": 4.6
+            },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17123042146959full-glass-lock-kit.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 11999,
-        "price": 5299,
-        "discount": 56,
-        "featured": true,
-        "rating": 4.8,
-        "company": "JENIX"
-    },
-    {
-        "name": "Jenix WiFi Tuya Smart Access Control System Kit Kit OSBL RFID",
-        "details": "Jenix WiFi Tuya Smart Access Control System Kit RFID Access Controller IP68 Waterproof 13.56MHz Reader + Electric Drop Bolt Lock, Card, OTP, Phone APP Pasword Unlock - Kit OSBL RFID",
-        "img":   [
+                "name": "Jenix waterproof video calling door access control mobile unlock RFID card unlock video calling",
+                "details": "Waterproof 12V DC operated Video calling door access control ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16910526718100video-calling-door-bell-with-lock-open.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 10555,
+                "price": 7499,
+                "discount": 29,
+                "rating": 4.4
+            },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17123009386268front.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 11999,
-        "price": 5999,
-        "discount": 50,
-        "featured": true,
-        "rating": 4.8,
-        "company": "JENIX"
-    },
-    {
-        "name": "Mini Relay Wireless Remote Control",
-        "details": "433MHz RF Mini Relay Wireless Remote Control Switch Receiver 1CH, and remote for access control , siren, door lock,",
-        "img":   [
+                "name": "Jenix Sliding Gate Motor up to 800Kg sliding door (track sperate)",
+                "details": "Auto Close Sliding Gate Open by Remote,",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16910501894871sliding-gate-automation.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 45999,
+                "price": 19999,
+                "discount": 57,
+                "rating": 4.7
+            },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17122361727302Mini-433Mhz-Chip-reciver-with-remote-1.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 1199,
-        "price": 660,
-        "discount": 45,
-        "featured": true,
-        "rating": 4.4,
-        "company": "JENIX"
-    },
-    {
-        "name": " DC Relay with 1 remote for door",
-        "details": "433Mhz 12V DC Relay with 1 remote for door lock sliding gate motor access control",
-        "img":   [
+                "name": "Tuya Smart Life smart curtain track - 10 feet long",
+                "details": "Smart Curtain Track with Motor - 10 feet Track ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1691043463462326952Electric-Smart-Tuya-Curtain-Motor-cp.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 35699,
+                "price": 12500,
+                "discount": 65,
+                "rating": 4.6
+            },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171223488432671-remote-1-kit.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 1199,
-        "price": 650,
-        "discount": 46,
-        "featured": true,
-        "rating": 4.9,
-        "company": "JENIX"
-    },
-    {
-        "name": "jenix Access Control Board,Network ",
-        "details": "jenix Access Control Board,Network TCP/IP Access Control Panel Board Reader for Wiegand 1 Door Use Access Controller for Boom Barrier , Sliding Gate Motor, Bank, Factory , Locker room",
-        "img":   [
+                "name": "Tuya Smart Life smart curtain track - 15 feet",
+                "details": "Smart Curtain Track with Motor - 15 feet Track ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16909592326952Electric-Smart-Tuya-Curtain-Motor.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 35699,
+                "price": 17500,
+                "discount": 51,
+                "rating": 4.5
+            },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17122206498126singe-door-access-controller.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 14999,
-        "price": 4225,
-        "discount": 72,
-        "featured": true,
-        "rating": 4.4,
-        "company": "JENIX"
-    },
-    {
-        "name": "jenix Access Control Board,Network 4 Door Use Access",
-        "details": "jenix Access Control Board,Network TCP/IP Access Control Panel Board Reader for Wiegand 4 Door Use Access Controller",
-        "img":   [
+                "name": "Jenix Wifi Smart Switch for Alexa/Google Assistant Enabled, Remote Control, Android and iOS Support Switch Make existing switch board to smart switch retrofit solution up to 16Amp load",
+                "details": "Remote Control Switch: We can put it directly in the switch bottom box. So you don’t have to climb stairs to install the controller. Connect with home Wi-Fi without hub required. Remotely turn on/off light or other appliances with smartphone App anywhere at any time as long as your phone has a network.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1670305879365416-Amp-mini-smart-switch.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 999,
+                "price": 640,
+                "discount": 36,
+                "rating": 4.1
+            },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171212422613414-door-access-controller.jpg",
-                "alt": "Inside the box"
+                "name": "4 gang wifi smart switch module - tuya smart life 4 Channel Wifi Switch Module",
+                "details": "mobile app - tuya smart life",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166989386526574-gang-tuya-wifi-switch.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 4999,
+                "price": 1781,
+                "discount": 64,
+                "rating": 4.3
             }
         ],
-        "mrp": 34999,
-        "price": 6500,
-        "discount": 81,
-        "featured": true,
-        "rating": 4.2,
-        "company": "JENIX"
-    },
-    {
-        "name": "Narrow Style Smart Lock",
-        "details": "Narrow Style Smart Lock (SW) with 5-way Unlock waterproof indoor or outdoor door slim smart lock for aluminium frame door",
-        "img":   [
+        "WIFI CAMERA - STAND ALONE SYSTEM": [
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17111049112755narrow-smart-lock-for-alumnium-door.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 29999,
-        "price": 10500,
-        "discount": 65,
-        "featured": true,
-        "rating": 4.9,
-        "company": "JENIX"
-    },
-    {
-        "name": "12V to 220V Inverter - 100W",
-        "details": "12V to 220V Inverter - 100W",
-        "img":   [
+                "name": "4G sim card camera - v380 3MP PTZ",
+                "details": "3MP Starlight V380 Pro Outdoor Camera 4G Sim Card LTE Security 4G IP HD CCTV PTZ Camera",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166989056421594g-camera-waterproof.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3799,
+                "price": 3799,
+                "discount": 0,
+                "rating": 4.4
+            },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1711100570535112V-DC-inverter.jpeg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 999,
-        "price": 400,
-        "discount": 60,
-        "featured": true,
-        "rating": 4.5,
-        "company": "JENIX"
-    },
-    {
-        "name": "jenix hand Held Metal Detector",
-        "details": "jenix hand Held Metal Detector, Portable Light-weight Security Scanner Wand HHMD",
-        "img":   [
+                "name": "Jenix Color Night Vision Wireless IP Bullet CCTV Camera, Waterproof 4X Optical Zoom CCTV Camera for Outdoor Shop Home XM-WIFI-Bullet",
+                "details": "Jenix Color Night Vision Wireless IP Bullet Camera, Waterproof 4X Optical Zoom CCTV Camera for Outdoor Shop Home XM WIFI Bullet ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166446874888671590770122_Front.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3999,
+                "price": 2280,
+                "discount": 43,
+                "rating": 4.3
+            },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110919433225super-wand-metal-detector.jpg",
-                "alt": "Inside the box"
+                "name": "Jenix Waterproof UPS for 12V WiFi Router Broadband Modem | Backup Upto 4 Hours | WiFi Router UPS Power Backup During Power Cuts | UPS for WiFi Camera | 4G Router | Fiber Modem | Electronic Lock",
+                "details": "This Power Supply  designed by Jenix. DC Cable output 5.5mm/2.1mm Male Plug No need of any power adaptor .. power adaptor of 12V 2.5Amp inbuilt in it ... So any device using 12V DC power adaptor up to 2.5Amp can be removed and this UPS directly used Just plug in AC power and Plug in DC plug into device.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1664035699972451cutXVjYeL_SL1195_.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 5299,
+                "price": 1199,
+                "discount": 77,
+                "rating": 4.2
             }
         ],
-        "mrp": 3999,
-        "price": 1450,
-        "discount": 64,
-        "featured": true,
-        "rating": 4.7,
-        "company": "JENIX"
-    },
-    {
-        "name": "uhf integrated reader for Parking System",
-        "details": "uhf integrated reader for Parking System Access Control Jewellery tag , Bike race , Horse race Waterproof Integrated tag UHF Reader antenna Access Control long range UHF-pro - RJ45",
-        "img":   [
+        "GPS TRACKER": [
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17135196676805uhf12-reader.jfif",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 34999,
-        "price": 17500,
-        "discount": 50,
-        "featured": true,
-        "rating": 4.8,
-        "company": "JENIX"
-    },
-    {
-        "name": "vehicle jewellery tag Reader",
-        "details": "vehicle jewellery tag Reader, UHF Passive Electronic Tag RFID Reader for Parking System Access Control Jewellery tag , Bike race , Horse race Waterproof Passive Electronic TAG RFID Integrated Card Reader Access Control range 7 meter -UHF7D - RJ45",
-        "img":   [
+                "name": "Jenix GPS Tracker for Child Old Pets Personal Tracker Wireless Tracking Life time Free SOS GPS JXD01",
+                "details": "Life Time Free : Free Mobile app, Free Server, no need to pay any recurring charge just pay one time and use life time free",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166520738795095ed14d5f917fbfront1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 4999,
+                "price": 2999,
+                "discount": 40,
+                "rating": 4.5
+            },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110882369075vehical-detection.jpg",
-                "alt": "Inside the box"
+                "name": "Jenix Real Time GPS Tracker with Free Server Tracking APP Inbuilt Battery for Car, Bus, Truck, Rickshaw, Scooty with Engine On and Off by Mobile APP and Website Anti Theft Alarm JXT-SER",
+                "details": "Jenix Real Time GPS Tracker with Free Server Tracking APP Inbuilt Battery for Car, Bus, Truck, Rickshaw, Scooty with Engine On and Off by Mobile APP and Website Anti Theft Alarm JXT-SER",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166410913440211590858494_1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3589,
+                "price": 1899,
+                "discount": 47,
+                "rating": 4.3
             }
         ],
-        "mrp": 34999,
-        "price": 12500,
-        "discount": 64,
-        "featured": true,
-        "rating": 4.6,
-        "company": "JENIX"
-    },
-    {
-        "name": "vehicle jewellery tag Reader, UHF Passive Electronic Tag",
-        "details": "vehicle jewellery tag Reader, UHF Passive Electronic Tag RFID Reader for Parking System Access Control Jewellery tag , Bike race , Horse race Waterproof Passive Electronic TAG RFID Integrated Card Reader Access Control range 7 meter -UHF7D- USB",
-        "img":   [
+        "4G ROUTER": [
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110877146260B701-application.jpg",
-                "alt": "Inside the box"
-            }
-        ],
-        "mrp": 34999,
-        "price": 10500,
-        "discount": 70,
-        "featured": true,
-        "rating": 4.6,
-        "company": "JENIX"
-    },
-    {
-        "name": "boom barrier mild steel powder coated",
-        "details": "boom barrier mild steel powder coated fully automatic boom barrier for parking society factory high rise building , telescopic Boom Barrier Gate with 6 meter Boom and Remote and preventive fall sensor CMP800",
-        "img":   [
+                "name": "jenix 4G router",
+                "details": "Waterproof 4G Sim card router",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1664088181221420220925_121014_0000.png",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 4899,
+                "price": 2499,
+                "discount": 49,
+                "rating": 4.2
+            },
             {
-                "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110860511347jenix-boom-barrier-gate.jpg",
-                "alt": "Inside the box"
+                "name": "Jenix Waterproof UPS for 12V WiFi Router Broadband Modem | Backup Upto 4 Hours | WiFi Router UPS Power Backup During Power Cuts | UPS for WiFi Camera | 4G Router | Fiber Modem | Electronic Lock",
+                "details": "This Power Supply designed by Jenix. DC Cable output 5.5mm/2.1mm Male Plug No need of any power adaptor .. power adaptor of 12V 2.5Amp inbuilt in it ... So any device using 12V DC power adaptor up to 2.5Amp can be removed and this UPS directly used Just plug in AC power and Plug in DC plug into device.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1664035699972451cutXVjYeL_SL1195_.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 5299,
+                "price": 1199,
+                "discount": 77,
+                "rating": 4.4
+            },
+            {
+                "name": "Jenix Waterproof 4G LTE Wi-Fi Router, Support All sim Cards, High Speed, No Configuration Required, Up to 32 Devices Connectivity, Support DVR, NVR, WiFi Camera",
+                "details": "4G wifi router can be very useful to a single point of wifi network. Just insert any sim card into it and enjoy the same high speed internet as you would enjoy from your phone.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1663412897149141a1rI3DWOL_SL1500_.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 5999,
+                "price": 2499,
+                "discount": 58,
+                "rating": 4.3
             }
         ],
-        "mrp": 79999,
-        "price": 28500,
-        "discount": 64,
-        "featured": true,
-        "rating": 4.8,
-        "company": "JENIX"
+        "NETWORKING AND PERIPHERAL": [
+            {
+                "name": "Jenix 8 port full gigabyte desktop switch",
+                "details": "Full gigabyte 100/1000 MBPS Wall mount.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16640877716892IMG-20220922-WA0006.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 4999,
+                "price": 1499,
+                "discount": 70,
+                "rating": 4.7
+            },
+            {
+                "name": "jenix 5 port Full Gigabyte Desktop switch",
+                "details": "Full Gigabyte desktop switch. For long range transmission of data signal. Suitable for IP camera up to 8MP",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16640873988056IMG-20220922-WA0007.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1199,
+                "price": 1199,
+                "discount": 0,
+                "rating": 4.5
+            }
+        ],
+        "Security Alarm System": [
+            {
+                "name": "jenix Tuya WIFI GSM wireless House Burglar Alarm Home Security Alarm System siren smart life",
+                "details": "√Powered by Tuya, works with Amazon Alexa, Google Assistant & 30K other Tuya devices",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16644282161491Tuya-smart-alarm-panel-wifi-security-panel.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 38599,
+                "price": 17520,
+                "discount": 55,
+                "rating": 4.6
+            },
+            {
+                "name": "Jenix wireless smoke detector smoke siren alarm independent smoke detection and siren sound SD 11",
+                "details": "Independent Smoke siren suitable for ATM, kitchen, small restaurant. Smoke detection area around 30sq feet.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16644553407787Polish_20220929_180139632.png",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 980,
+                "discount": 67,
+                "rating": 4.3
+            },
+            {
+                "name": "12V DC power supply SMPS based for 4ch CCTV Camera",
+                "details": "12V DC SMPS Based power supply with short circuit protection, over voltage protection, suitable for up to 4 CCTV Cameras or 4 Sensors.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16674708211190CCTV-Power-Supply.jpeg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 999,
+                "price": 599,
+                "discount": 40,
+                "rating": 4.2
+            },
+            {
+                "name": "jenix wireless shutter sensor | shutter contact | rolling shutter sensor | 433Mhz - JXRS-433",
+                "details": "Metal material surface mount wireless frequency 433MHz sensing gap: pull-in-15mm; release-30mm",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16675405097659shutter-sensor.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 999,
+                "discount": 67,
+                "rating": 4.4
+            },
+            {
+                "name": "Jenix wireless vibration sensor 433Mhz JXVRS433",
+                "details": "This is only sensor, does not have any inbuilt siren, to trigger siren sound after motion detected for that you need security alarm panel from Jenix.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16675418223122wireless-vibration-sensor.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 1050,
+                "discount": 65,
+                "rating": 4.3
+            },
+            {
+                "name": "Jenix wireless glass break sensor | glass break shock detector | glass sensor JXGBS433",
+                "details": "This is only sensor, does not have any inbuilt siren, to trigger siren sound after motion detected for that you need security alarm panel from Jenix.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16675425853647Glass-Break-sensor.jpeg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 1399,
+                "discount": 53,
+                "rating": 4.5
+            },
+            {
+                "name": "Wired door contact Magnetic Switch Home Alarm System for Micro Controller Any Wired Security Alarm Panel, Node MCU",
+                "details": "Easy fixing, strong concealment, ideal for residential or commercial use. Designed for surface mount over the door or window frame.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166868737539561607421315_31g6robhp2L_SY450_11.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 299,
+                "price": 199,
+                "discount": 33,
+                "rating": 4.1
+            },
+            {
+                "name": "Jenix Plastic Wired Mini DC 12V Horn Siren, Home Security Sound Alarm System, 120dB, Standard Size",
+                "details": "Jenix Wired Mini Horn Siren Home Security Sound Alarm System 120dB DC 12V. 100% brand new and high quality Material: Plastic and Metal.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1691301740791663078955719061IBryyqFbL_SL1000_-cp.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 999,
+                "price": 299,
+                "discount": 70,
+                "rating": 4.2
+            }
+        ],
+        "Cable Convertor Connector": [
+            {
+                "name": "Jenix PVC Camera Mount Bracket, Anti-Rust Camera Bracket/Stand/Holder for Indoor/Outdoor Dome and Bullet Camera Mount (White)",
+                "details": "Made of plastic, anti-rust and extend the service life of the bracket. The cable can be placed in the bracket, elegant and neat, also can protect the wires better.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17129047175296front.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 399,
+                "price": 199,
+                "discount": 50,
+                "rating": 4.5
+            },
+            {
+                "name": "(Pack of 10) Red Color Silicone Wristband RFID Tag For Access Control Swimming Pool And Marathon 13.56MHZ ISO14443A MiFare 1K Pack of 10",
+                "details": "Operating Frequency : 13.56 MHz High Frequency (HF)",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1712812796617535b7220f-056b-48c6-8b5b-28846701981d.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 4999,
+                "price": 1399,
+                "discount": 72,
+                "rating": 4.6
+            },
+            {
+                "name": "Heavy Duty Rotating TV Wall Mount For 14 To 42 Inch LED/HD/LCD TV Swivel Type Full Motion TV Wall Mount",
+                "details": "TV Wall Mount: 23 To 43 Inches",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17127516974308tv-wall-mount-bracket.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 799,
+                "price": 399,
+                "discount": 50,
+                "rating": 4.4
+            },
+            {
+                "name": "Universal LCD/LED TV Moving Wall Mount with 180 Degree Rotating for 14 to 26 inch 15 Kg, JS-15",
+                "details": "Universal LCD/LED TV Moving Wall Mount with 180 Degree Rotating for 14 to 26 inch LCD/LED. TV Load Capacity Upto 15 Kg Black.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1712732821628215-wall-mount-stand.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 499,
+                "price": 199,
+                "discount": 60,
+                "rating": 4.3
+            },
+            {
+                "name": "Ceiling Mount TV Stand Projector, Monitor Mount Height & Angle Adjustable for 26” to 65” - CP413",
+                "details": "Compatible with VESA Mounting holes – 100x100 mm, 100x200mm, 200x200mm, 200x300mm, 300x300mm, 200x400mm, 300x400mm, 400x400mm",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17127323247943Ceilling-mount-TV-stand.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3600,
+                "price": 1999,
+                "discount": 44,
+                "rating": 4.5
+            },
+            {
+                "name": "USB Male to Female Extension Cable - 1.5M long",
+                "details": "USB EXTENSION CABLE EQUIPPED WITH TYPE A MALE CONNECTOR ON ONE END TO PLUG INTO YOUR COMPUTER AND A TYPE A FEMALE CONNECTOR AT THE OTHER THAT ALLOWS FOR A SECOND USB CABLE TO BE INSERTED.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16690921446226USB-Male-to-Female-Extension-Cable.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 399,
+                "price": 130,
+                "discount": 67,
+                "rating": 4.2
+            },
+            {
+                "name": "DC Cable for CCTV camera - pigtail - Pack of 100 nos.",
+                "details": "12V DC Power Pigtail Male 5.5 * 2.1mm Cable Plug Wire for CCTV Security DC Cable Connector Wire Connector",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1668756451480310-10pcs-12v-dc-power-pigtail-male-5-5-2-1mm-cable-plug-wire-for-original-imafns8udvw2yxuh1.jpeg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 799,
+                "price": 499,
+                "discount": 38,
+                "rating": 4.3
+            },
+            {
+                "name": "BNC connector - copper wire 18cm long - Pack of 100 Nos.",
+                "details": "High performance cable for connecting a camera, CCTV, VCR, antenna, or other devices - No Soldering, No Crimping, Just Connect 2 wires and tap",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16687558584174bnc-connector-with-copper-wire-moulded-10pcs-18cm-bnc-golden-male-plug-cable-white-1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 1399,
+                "discount": 53,
+                "rating": 4.4
+            },
+            {
+                "name": "USB extender - 150 Feet Long USB extension using cat 5e/6 cable with RJ45 connector",
+                "details": "150 Ft USB (Male) To RJ45 + USB (Female) USB Over Cat5/5e/6 Extension Adapter RJ45 Up To 150ft Length USB LAN Extender",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1668754068877861PrjQqklhL_SL1170_1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 499,
+                "price": 399,
+                "discount": 20,
+                "rating": 4.1
+            },
+            {
+                "name": "jenix 48V POE injector single port 802.3at/af",
+                "details": "Simple plug and play POE injector, used to power POE devices (Camera, Biometric Machine, VDP, Router etc.) and extract data",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166814549329921610799028_Injector1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1999,
+                "price": 599,
+                "discount": 70,
+                "rating": 4.6
+            }
+        ],
+        "Signal Booster": [],
+        "TOOLS AND CLIP PIN TAPE": [
+            {
+                "name": "RJ 45 Passthrough Connector CAT6 - Pack of 100 nos.",
+                "rating": 4.5,
+                "reviews": 28,
+                "details": "Actual cat 6 RJ45 pass through connector pack of 100 nos.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16786919584081RJ45-pass-through-connector.jpeg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 999,
+                "price": 649,
+                "discount": 35
+            },
+            {
+                "name": "RJ45 Crimp Tool for Pass Through Connector End | EZ Cut, Strip, Crimp Network Cable | Heavy Duty Crimper for RJ11 & RJ45 Plugs | Professional Networking Cat5/5e & Cat6, Tools & Accessories",
+                "rating": 4.2,
+                "reviews": 17,
+                "details": "Reliable crimp tool with steel body for durability with ergonomic comfort grips.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16786881471642pass-through-crimping-tool.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1299,
+                "price": 699,
+                "discount": 46
+            }
+        ],
+        "ROBOTICS": [
+            {
+                "name": "12V to 220V Inverter - 100W",
+                "rating": 4.8,
+                "reviews": 42,
+                "details": "DC inverter 12VDC 220V AC ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1711100570535112V-DC-inverter.jpeg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 999,
+                "price": 400,
+                "discount": 60
+            },
+            {
+                "name": "Jenix Electrical Toggle Switch, SPDT, NO NC, 2 Way Switch ON OFF ON, 3 A/250V AC, 3 PIN NO COM NC Terminal - PACK OF 10",
+                "rating": 4.5,
+                "reviews": 35,
+                "details": "- ON-OFF-ON Type Switch - 6mm Dia in Panel for fixing - NO-C-NC 3 terminal for SPDT",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16884575063243jenix-spdt-toggle-switch.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 299,
+                "price": 149,
+                "discount": 50
+            },
+            {
+                "name": "ESP8266 ESP-01 5V WiFi Relay Module ( Pack of 10 Nos.) ESP01 Relay Module",
+                "rating": 4.3,
+                "reviews": 23,
+                "details": "Onboard Module: ESP8266 wifi module; in AP mode it can connect with 5 Clients at the same time",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16751601964155ESP8266-WiFi-Serial-Transceiver-Module.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2990,
+                "price": 2478,
+                "discount": 17
+            },
+            {
+                "name": "1n4742a zener diode 12V 1W - Pack of 100 nos",
+                "rating": 4.7,
+                "reviews": 30,
+                "details": "details Zener Voltage 12V Zener Number 1N4742A",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16695358646101images-47.jpeg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1000,
+                "price": 200,
+                "discount": 80
+            },
+            {
+                "name": "KSP 44 bipolar transistor - Pack of 50 nos.",
+                "rating": 4.6,
+                "reviews": 15,
+                "details": "Characteristics of KSP44 Transistor",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16695354217900IMG-20221127-WA0002.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 779,
+                "discount": 74
+            },
+            {
+                "name": "Tuya Smartlife WiFi 1ch relay module for door lock , access control , trigger mode and delay time trigger by mobile app with 433Mhz Remote receiver",
+                "rating": 4.4,
+                "reviews": 19,
+                "details": "Tuya Smartlife app 433 Mhz Universal Wireless Remote Control Switch DC 12V Wifi 1CH Relay Receiver Module",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16690960119619tuya-relay-wifi.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 1099,
+                "discount": 63
+            },
+            {
+                "name": "E18-D80NK Adjustable IR Sensor Proximity Switch 3-80cm Range - NC Type low level trigger",
+                "rating": 4.2,
+                "reviews": 25,
+                "details": "The E18-D80NK Adjustable IR Sensor Proximity Switch 3-80cm Range is a set of transmitter and receiver in one of the photoelectric switch sensor. The detection distance can be adjusted according to the demand. The sensor has a detection range of 3-80cm.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1668686702411960f7c5fb85a5f11.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 699,
+                "price": 251,
+                "discount": 64
+            },
+            {
+                "name": "Jenix Float Switch Sensor Water Level Control Tank Overflow Control Sensor Automatic Water Motor Off when Tank Full, 3 Meter Long Wire JXFC3W",
+                "rating": 4.6,
+                "reviews": 32,
+                "details": "Fully automatic water level controller.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166868552864841628597628_21.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 599,
+                "price": 399,
+                "discount": 33
+            },
+            {
+                "name": "Jenix 5V 30A Relay Module Optocoupler Isolation High Power Relay High/Low Level Trigger suitable for all Micro controller",
+                "rating": 4.7,
+                "reviews": 38,
+                "details": "◇ ANTI-INTERFERENCE---Made of the high quality miniature optocoupler, the relay module is of anti-interference ability, stable performance",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1664456081938761gNb6B6hnL_SL1258_.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1599,
+                "price": 683,
+                "discount": 57
+            }
+        ],
+        "Spy Micro Hidden Camera": [
+            {
+                "name": "mini size wifi camera night vision -MS1080P",
+                "details": "HD 1080P Night Vision Mini Camera Wifi Smart Home IP Wireless Security Camera Night Vision: auto night vision features provide uninterrupted surveillance even in dark rooms.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16693617231590MSa.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 4999,
+                "price": 3299,
+                "discount": 34,
+                "rating": 4.5
+            },
+            {
+                "name": "Jenix Spy Camera in WiFi Mobile Charger Mini Camera Inbuilt in Mobile Charger",
+                "details": "Micro Camera Inbuilt in Mobile Charger WIFI Local in AP mode",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166900730854795ed2913511a84front1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 4999,
+                "price": 2599,
+                "discount": 48,
+                "rating": 4.2
+            },
+            {
+                "name": "jenix WiFi Spy Camera Bluetooth Speaker with 4K UHD Night Vision Remote (JXSP4K1)",
+                "details": "This is a 4K UHD Camera - 4K Technology 8MP Camera inbuilt in Bluetooth Speaker , Ultra HD clarity and Clear Sound with Dancing Color Light near to Speaker edges",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166900698397351595672476_71VWVk4jqeL_SL1001_11.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 10999,
+                "price": 4999,
+                "discount": 55,
+                "rating": 4.8
+            },
+            {
+                "name": "Jenix Wireless WIFI Endoscope Camera - 3 meter long inspection camera",
+                "details": "endoscopy camera to find things in drain , hole etc.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16688334532638untitled1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 4999,
+                "price": 2599,
+                "discount": 48,
+                "rating": 4.0
+            },
+            {
+                "name": "Jenix 12MP Night Vision Spy Camera Hidden in Electric Lighter Audio Video Micro Hidden Camera Portable Mini Camera",
+                "details": "12MP Night Vision Recording Camera",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166868692439471612007606_spy11.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3999,
+                "price": 2599,
+                "discount": 35,
+                "rating": 4.3
+            },
+            {
+                "name": "Jenix audio bug listen audio using sim card",
+                "details": "Insert sim card ( after converting sim into 2G , use only BSNL, Airtel , VI sim , Does not support JIO sim) and make call to sim number and start listing audio ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16646827487195IMG-20221002-WA0005.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 1050,
+                "discount": 65,
+                "rating": 4.1
+            }
+        ],
+        "Public Parking Management": [
+            {
+                "name": "4G LTE Plug & Router",
+                "details": "4G Router 4G LTE CPE Wi-Fi Router for Home & Personal Computer indoor use",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171894791010434-g-router-inside-box.jpg",
+                        "alt": "Inside the box"
+                    },
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171894791556744G-router.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3999,
+                "price": 1300,
+                "rating": 4.2,
+                "discount": 67
+            },
+            {
+                "name": "long range UHF rfid tag Iso18000-6C Long Range Adhesive Inlay Label , PET material (Pack of 1000)",
+                "details": "Frequency: UHF 860-960MHZ Chip: U8 Protocol: EPC Class1 Gen2, ISO18000-6C",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17189471007790a7c4daf1-e324-4007-88f7-0de060b99458.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 33000,
+                "price": 15000,
+                "rating": 4.7,
+                "discount": 55
+            },
+            {
+                "name": "Contactless card reader Proximity card reader 125 kHz RFID reader with WG26/34 Out to add with door controller IP65 Smart Card Reader- 125khzWG26/34",
+                "details": "This is Black WG26/34 125KHz RFID Contactless IP65 Smart Card Reader, a device used for reading RFID cards or tags in various applications.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17138668725790black-wg26-34-125khz-rfid-contactless-ip65-smart-card-reader-1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 315,
+                "price": 315,
+                "rating": 4.9,
+                "discount": 0
+            },
+            {
+                "name": "jenix 2 door intelligent Access Control Card ,Network TCP/IP Access Control Panel Board Reader for Wiegand 4 input 2 Door Access Controller ",
+                "details": "Flexible user rights settings, quick settings, support for multi-user superision. Normal shift&multi-shifts time attendance management.Conenient to check and query,report exported to excel which reisable and printable report form,unlocking at definite time.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171386643332152-door-front.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 34999,
+                "price": 4500,
+                "rating": 4.1,
+                "discount": 87
+            },
+            {
+                "name": "jenix Access Control Board,Network TCP/IP Access Control Panel Board Reader for Wiegand 1 Door Use Access Controller for Boom Barrier , Sliding Gate Motor, Bank, Factory , Locker room",
+                "details": "Flexible user rights settings, quick settings, support for multi-user superision. Normal shift&multi-shifts time attendance management.Conenient to check and query,report exported to excel which reisable and printable report form,unlocking at definite time.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17122206498126singe-door-access-controller.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 14999,
+                "price": 4225,
+                "rating": 4.6,
+                "discount": 72
+            },
+            {
+                "name": "jenix Access Control Board,Network TCP/IP Access Control Panel Board Reader for Wiegand 4 Door Use Access Controller",
+                "details": "Flexible user rights settings, quick settings, support for multi-user superision. Normal shift&multi-shifts time attendance management.Conenient to check and query,report exported to excel which reisable and printable report form,unlocking at definite time.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171212422613414-door-access-controller.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 34999,
+                "price": 6500,
+                "rating": 4.6,
+                "discount": 81
+            },
+            {
+                "name": "jenix hand Held Metal Detector, Portable Light-weight Security Scanner Wand HHMD",
+                "details": "Hand Held Metal Detector With Audio Visual & Vibration Alert. The original Rugged Hand Held Metal Detector with Battery Charging Station (with 9Volt Ni-Cd Rechargeable Battery & Charger).",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110919433225super-wand-metal-detector.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3999,
+                "price": 1450,
+                "rating": 4.4,
+                "discount": 64
+            },
+            {
+                "name": "uhf integrated reader for Parking System Access Control Jewellery tag , Bike race , Horse race Waterproof Integrated tag UHF Reader antenna Access Control long range UHF-pro - RJ45",
+                "details": "Multi-protocol compatibility, rich communication interface, full support for 18000-6B and EPC Protocols), RJ45-TCP/IP/ UDP , RS485, RS232, Wiegand , USB  and other communications.Long reading distance, and the farthest reading distance is 7-15m/21-45ft.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17135196676805uhf12-reader.jfif",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 34999,
+                "price": 17500,
+                "rating": 4.7,
+                "discount": 50
+            },
+            {
+                "name": "vehicle jewellery tag Reader, UHF Passive Electronic Tag RFID Reader for Parking System Access Control Jewellery tag , Bike race , Horse race Waterproof Passive Electronic TAG RFID Integrated Card Reader Access Control range 7 meter -UHF7D - RJ45",
+                "details": "Multi-protocol compatibility, rich communication interface, full support for 18000-6B and EPC Protocols), RJ45-TCP/IP/ UDP , RS485, RS232, Wiegand , USB  and other communications.Long reading distance, and the farthest reading distance is 5-7m/16.4-21ft.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110882369075vehical-detection.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 34999,
+                "price": 12500,
+                "rating": 4.9,
+                "discount": 64
+            },
+            {
+                "name": "vehicle jewellery tag Reader, UHF Passive Electronic Tag RFID Reader for Parking System Access Control Jewellery tag , Bike race , Horse race Waterproof Passive Electronic TAG RFID Integrated Card Reader Access Control range 7 meter -UHF7D- USB",
+                "details": "Multi-protocol compatibility, rich communication interface, full support for 18000-6B and EPC Protocols), RS485, RS232, Wiegand , USB  and other communications.Long reading distance, and the farthest reading distance is 5-7m/16.4-21ft.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110877146260B701-application.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 34999,
+                "price": 10500,
+                "rating": 4.5,
+                "discount": 70
+            },
+            {
+                "name": "boom barrier mild steel powder coated fully automatic boom barrier for parking society factory high rise building , telescopic Boom Barrier Gate with 6 meter Boom and Remote and preventive fall sensor CMP800",
+                "details": "Fully Automatic Boom Barrier Features:Gate Opening/Closing Time : adjustable from 1.5 sec to 6 sec",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110860511347jenix-boom-barrier-gate.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 79999,
+                "price": 28500,
+                "rating": 4.2,
+                "discount": 64
+            },
+            {
+                "name": "jenix Hand Held Metal Detectors, Portable Light-Weight Security Super Scanner HHMD bat",
+                "details": "HIGH SENSITIVITY and FAST DETECTING: Detecting temperature range is -15 ~ 45?, large detecting probe area, even Detects Small Hidden Metal Objects.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110848855251hand-held-metal-detector.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 1350,
+                "rating": 4.7,
+                "discount": 55
+            }
+        ],
+        "Mixed": [
+            {
+                "name": "CareCam 360° Smart Pan Tilt Home Office WiFi Wireless Indoor Security 360° 3 Mp Camera | Color Night Vision | Up to 128 Gb Microsd Card supported | Motion Detection",
+                "details": "[Full- HD] -  3 megapixel, 10m/33ft night vision and pan/tilt 360° monitoring provide seamless protection day and night.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17184298596068hD3.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3999,
+                "price": 1199,
+                "discount": 70,
+                "rating": 4.5
+            },
+            {
+                "name": "J1000 Aluminium Alloy Universal Camera Wall Mounting Bracket stand for CCTV Security Camera/IP Camera/Dome Camera - J Mount stand",
+                "details": "Model J1000 Lenght total 1000mm",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17091900879954J1000.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 950,
+                "discount": 68,
+                "rating": 4.2
+            },
+            {
+                "name": "J 600 Aluminium Alloy Universal Camera Wall Mounting Bracket stand for CCTV Security Camera/IP Camera/Dome Camera - J Mount stand - Copy",
+                "details": "Model J600 Lenght total 600mm",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17091900069631J600.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 999,
+                "price": 699,
+                "discount": 30,
+                "rating": 4.0
+            },
+            {
+                "name": "Aluminium Alloy Universal Camera Wall Mounting Bracket stand for CCTV Security Camera/IP Camera/Dome Camera - J Mount stand",
+                "details": "Model J500 Lenght total 500mm",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/170918938743486a5286aa-ddd8-42ad-8c81-a304a0489a5d.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 999,
+                "price": 599,
+                "discount": 40,
+                "rating": 4.3
+            },
+            {
+                "name": "CCTV Camera cage , outdoor CCTV camera protection from monkey - Pack of 5 Nos.",
+                "details": "CCTV Camera cage  Dimensions 200x200mm base , depth 175mm",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16939854591983IMG-20230906-WA0010.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1099,
+                "price": 1099,
+                "discount": 0,
+                "rating": 4.4
+            },
+            {
+                "name": "jenix waterproof outdoor PVC pole mount rack 11x9x4.5 inch for media converter , poe switch , battery , charger , adaptor 11x9x4.5 PM",
+                "details": "11x9x4.5 inch size with inbuilt 2 power socket and 1 Power cable  Pole mount with 2 numbers Steel Ring size 200 mm long ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16761867581059waterproof-pole-moutn-rack.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1599,
+                "price": 1199,
+                "discount": 25,
+                "rating": 4.6
+            },
+            {
+                "name": "DVR rack 13x11x5 waterproof",
+                "details": "Waterproof Outdoor Rack ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16717729087943IMG-20221223-WA0004.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1199,
+                "price": 699,
+                "discount": 42,
+                "rating": 4.1
+            },
+            {
+                "name": "4G sim card camera - v380 3MP PTZ",
+                "details": "3MP Starlight V380 Pro Outdoor Camera 4G Sim Card LTE Security 4G IP HD CCTV PTZ Camera",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166989056421594g-camera-waterproof.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3799,
+                "price": 3799,
+                "discount": 0,
+                "rating": 4.7
+            },
+            {
+                "name": "jenix cctv camera - 4MP IP camera audio mic color night vision smart flash light on human detection outdoor bullet camera",
+                "details": "4MP POE IP camera work with any NVR - standard ONVIF",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16697862014412bullet-camera-onvif-jenix.png",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 7999,
+                "price": 2899,
+                "discount": 64,
+                "rating": 4.8
+            },
+            {
+                "name": "jenix cctv camera - 4MP IP camera audio mic color night vision smart flash light on human detection indoor dome camera",
+                "details": "4MP POE IP camera work with any NVR - standard ONVIF",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16697838075420Jenix-CCTV-Camera-4MP-AUDIO-VIDEO-IP-CAMERA.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 7999,
+                "price": 3499,
+                "discount": 56,
+                "rating": 4.9
+            },
+            {
+                "name": "Jenix Tuya Smartlife app wifi relay kit lock PCB 433 Mhz Universal Wireless Remote Control Switch DC 12V Wifi 1CH Relay Receiver Module",
+                "details": "1 channel WIFI & 433Mhz RF Wireless Inching Relay Switch, Add wifi and 433mhz remote control to your garage door fireplace, can pair with RF as a channel, convenient for children and elder.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17178407092400Wifi-Lock-Relay-PCB.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3999,
+                "price": 1249,
+                "discount": 69,
+                "rating": 4.5
+            },
+            {
+                "name": "Smart Glass Door Lock Digital Glass Lock ,Unlock by Bluetooth, Mobile App, Fingerprint, PIN, RFID Card for 10-12 mm Glass Doors only",
+                "details": "360° Fingerprint sensor - 0.4 sec. unlocking speed || Register Up-to 50 fingerprints in the lock. Mobile APP. - This lock completely operate through mobile application. Add/Del. any user, unlocking records, Bluetooth unlocking.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17169650832481Front-SMart-Glass-Door-Lock.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 10999,
+                "price": 3999,
+                "discount": 64,
+                "rating": 4.0
+            },
+            {
+                "name": "jenix Hotel Lock digital smart RFID card BLE hotel room door lock TTLock mobile app hotel managment system compatible lock JX HT 777 - Silver Color - LEFT Inside Open",
+                "details": "Smart BLE RFID door lock for hotel room : Works with cards that unlock and lock doors,  work with bluetooth as well as wifi using wifi private gateway ( gateway not included with this lock, wifi gateway model JXGWTTW01) . ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17152463637640hotel-rfid-door-locks-L.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 7950,
+                "price": 3599,
+                "discount": 55,
+                "rating": 4.3
+            },
+            {
+                "name": "jenix Smart Wireless Glass Door Lock with Remote, Touch Keypad Keyless Electric Security Biometric Fingerprint Password RFID card Swipe Lock Doorbell Function for Home Office JXFGL1 - remote",
+                "details": "❤ALL-IN-ONE SMART LOCK: A variety of ways to open the door, Extreme speed semiconductor fingerprint recognition,",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17141118026188fee42333-f924-4d30-a8a4-e6078261ab76.jfif",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 29999,
+                "price": 5500,
+                "discount": 82,
+                "rating": 4.7
+            },
+            {
+                "name": "Jenix WiFi Tuya Smart Access Control System Kit RFID Access Controller IP68 Waterproof 13.56MHz Reader + Electric Drop Bolt Lock Full Glass Door, Card, OTP, Phone APP Pasword Unlock - Kit FGL RFID",
+                "details": "❤ Supports 10,000 large user capacity. Supports RFID Cards, Password, RFID Card plus Password, Tuya APP verification mode. The door can be set normally open mode.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17123042146959full-glass-lock-kit.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 11999,
+                "price": 5299,
+                "discount": 56,
+                "rating": 4.4
+            },
+            {
+                "name": "Jenix WiFi Tuya Smart Access Control System Kit RFID Access Controller IP68 Waterproof 13.56MHz Reader + Electric Drop Bolt Lock, Card, OTP, Phone APP Pasword Unlock - Kit OSBL RFID",
+                "details": "❤ Supports 10,000 large user capacity. Supports RFID Cards, Password, RFID Card plus Password, Tuya APP verification mode. The door can be set normally open mode.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17123009386268front.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 11999,
+                "price": 5999,
+                "discount": 50,
+                "rating": 4.2
+            },
+            {
+                "name": "433MHz RF Mini Relay Wireless Remote Control Switch Receiver 1CH, and remote for access control , siren, door lock,",
+                "details": "- Standby current: about 0.1 mA (standby mode automatically switches to energy saving state)",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17122361727302Mini-433Mhz-Chip-reciver-with-remote-1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1199,
+                "price": 660,
+                "discount": 45,
+                "rating": 3.8
+            },
+            {
+                "name": "433Mhz 12V DC Relay with 1 remote for door lock sliding gate motor access control",
+                "details": "Operating Voltage : DC 12V ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171223488432671-remote-1-kit.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1199,
+                "price": 650,
+                "discount": 46,
+                "rating": 3.9
+            },
+            {
+                "name": "Narrow Style Smart Lock (SW) with 5-way Unlock waterproof indoor or outdoor door slim smart lock for aluminium frame door",
+                "details": "Presenting Narrow Style Series, an expertly designed lock that offers optimal security while ensuring a smooth user experience. Enjoy the convenience of keyless entry and an elegant sleek design.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17111049112755narrow-smart-lock-for-alumnium-door.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 29999,
+                "price": 10500,
+                "discount": 65,
+                "rating": 4.6
+            },
+            {
+                "name": "Surface Mount Door Exit Button - Open Surface door exit button ( bell type rocker switch)",
+                "details": "Surface Mount Door Exit button suitable up to 3 Amp DC Current",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17071373217908eeca2271-64da-43a0-86e7-23482aab6586.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 599,
+                "price": 199,
+                "discount": 67,
+                "rating": 4.0
+            },
+            {
+                "name": "Beetel C51 Display Telephone landline phone black color",
+                "details": "Black Landline Telephone landline.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16715990346771C51.jpg",
+                        "alt": "Product image"
+                    },
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16715990654895C51-beetel-original-telephone.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 851,
+                "price": 799,
+                "discount": 6,
+                "rating": 4.1
+            },
+            {
+                "name": "RJ11 connector for telephone",
+                "details": "RJ11 connector pack of 50 number",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16641081671789images-25.jpeg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 500,
+                "price": 240,
+                "discount": 52,
+                "rating": 4.3
+            },
+            {
+                "name": "RJ11 Telephone Line Wire Patch Cable Compatible for Landline, Telephone (Black) (5 Meters) - Pack of 2 nos",
+                "details": "This is a RJ11 Telephone Cable/Telephone Line Cord. High Quality Telephone Extension Cord Wire.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16641063231235rj11-black-wire-1.jpeg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 400,
+                "price": 225,
+                "discount": 44,
+                "rating": 4.0
+            },
+            {
+                "name": "Dimmer - Smart Wireless WIFI Dimmer | Smart life app |",
+                "details": "Adjust The Brightness of light or Turn electronics on and off from anywhere with the Smart life app, no hub needed, litt power loss, and long service life. It also works with manual switches as well.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17142037844713dimmer.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1999,
+                "price": 999,
+                "discount": 50,
+                "rating": 4.2
+            },
+            {
+                "name": "WiFi Smart IR Remote Control WiFi Temperature Humidity Sensor Monitor with LCD Display Cover Above 98% IR Device for Air-Conditioned TV Fan etc Smart Life APP Compatible with Alexa Google Assistant",
+                "details": "【IR Smart Remote Control】: Compared with other temperature and humidity sensors, we have universal IR smart remote control function, USB power, infrared APP remote control. After setting the control, the smart link will automatically adjust the humidifier or dehumidifier. The screen displays temperature, humidity and date and quickly displays dry / comfortable / humid air. Always let you live in the most comfortable living environment.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17128296249737smart-IR-with-temprature-and-humidty-heavy-front.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 5499,
+                "price": 1899,
+                "discount": 65,
+                "rating": 4.5
+            },
+            {
+                "name": "Wifi Main Circuit Breaker (MCB) / Smart Switch overload and short circuit protection for Smart home work with Smart life app (63A 2Pole ) STM63KWh",
+                "details": "Smart Control from Anywhere: Jenix Smart Wifi Breaker works with Alexa, Google Assistant and IFTTT, you can simply control it with voice order when your hand is busy. Turn Your home Electricity on/off from anywhere with mobile devices using the Smart life app, No hub Required , Low power loss and long service life.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17089388249538actual-image.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 5199,
+                "price": 2399,
+                "discount": 54,
+                "rating": 4.3
+            },
+            {
+                "name": "Jenix waterproof video calling door access control mobile unlock Biometric finger unlock video calling",
+                "details": "Waterproof 12V DC operated Video calling door access control ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/169105309798122342e22b-082e-4256-b6cf-d078cbc922a3.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 10555,
+                "price": 8999,
+                "discount": 15,
+                "rating": 4.6
+            },
+            {
+                "name": "Jenix waterproof video calling door access control mobile unlock RFID card unlock video calling",
+                "details": "Waterproof 12V DC operated Video calling door access control ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16910526718100video-calling-door-bell-with-lock-open.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 10555,
+                "price": 7499,
+                "discount": 29,
+                "rating": 4.4
+            },
+            {
+                "name": "Jenix Sliding Gate Motor up to 800Kg sliding door (track sperate)",
+                "details": "Auto Close Sliding Gate Open by Remote,",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16910501894871sliding-gate-automation.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 45999,
+                "price": 19999,
+                "discount": 57,
+                "rating": 4.7
+            },
+            {
+                "name": "Tuya Smart Life smart curtain track - 10 feet long",
+                "details": "Smart Curtain Track with Motor - 10 feet Track ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1691043463462326952Electric-Smart-Tuya-Curtain-Motor-cp.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 35699,
+                "price": 12500,
+                "discount": 65,
+                "rating": 4.6
+            },
+            {
+                "name": "Tuya Smart Life smart curtain track - 15 feet",
+                "details": "Smart Curtain Track with Motor - 15 feet Track ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16909592326952Electric-Smart-Tuya-Curtain-Motor.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 35699,
+                "price": 17500,
+                "discount": 51,
+                "rating": 4.5
+            },
+            {
+                "name": "Jenix Wifi Smart Switch for Alexa/Google Assistant Enabled, Remote Control, Android and iOS Support Switch Make existing switch board to smart switch retrofit solution up to 16Amp load",
+                "details": "Remote Control Switch: We can put it directly in the switch bottom box. So you don’t have to climb stairs to install the controller. Connect with home Wi-Fi without hub required. Remotely turn on/off light or other appliances with smartphone App anywhere at any time as long as your phone has a network.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1670305879365416-Amp-mini-smart-switch.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 999,
+                "price": 640,
+                "discount": 36,
+                "rating": 4.1
+            },
+            {
+                "name": "4 gang wifi smart switch module - tuya smart life 4 Channel Wifi Switch Module",
+                "details": "mobile app - tuya smart life",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166989386526574-gang-tuya-wifi-switch.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 4999,
+                "price": 1781,
+                "discount": 64,
+                "rating": 4.3
+            },
+            {
+                "name": "4G sim card camera - v380 3MP PTZ",
+                "details": "3MP Starlight V380 Pro Outdoor Camera 4G Sim Card LTE Security 4G IP HD CCTV PTZ Camera",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166989056421594g-camera-waterproof.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3799,
+                "price": 3799,
+                "discount": 0,
+                "rating": 4.4
+            },
+            {
+                "name": "Jenix Color Night Vision Wireless IP Bullet CCTV Camera, Waterproof 4X Optical Zoom CCTV Camera for Outdoor Shop Home XM-WIFI-Bullet",
+                "details": "Jenix Color Night Vision Wireless IP Bullet Camera, Waterproof 4X Optical Zoom CCTV Camera for Outdoor Shop Home XM WIFI Bullet ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166446874888671590770122_Front.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3999,
+                "price": 2280,
+                "discount": 43,
+                "rating": 4.3
+            },
+            {
+                "name": "Jenix Waterproof UPS for 12V WiFi Router Broadband Modem | Backup Upto 4 Hours | WiFi Router UPS Power Backup During Power Cuts | UPS for WiFi Camera | 4G Router | Fiber Modem | Electronic Lock",
+                "details": "This Power Supply  designed by Jenix. DC Cable output 5.5mm/2.1mm Male Plug No need of any power adaptor .. power adaptor of 12V 2.5Amp inbuilt in it ... So any device using 12V DC power adaptor up to 2.5Amp can be removed and this UPS directly used Just plug in AC power and Plug in DC plug into device.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1664035699972451cutXVjYeL_SL1195_.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 5299,
+                "price": 1199,
+                "discount": 77,
+                "rating": 4.2
+            },
+            {
+                "name": "Jenix GPS Tracker for Child Old Pets Personal Tracker Wireless Tracking Life time Free SOS GPS JXD01",
+                "details": "Life Time Free : Free Mobile app, Free Server, no need to pay any recurring charge just pay one time and use life time free",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166520738795095ed14d5f917fbfront1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 4999,
+                "price": 2999,
+                "discount": 40,
+                "rating": 4.5
+            },
+            {
+                "name": "Jenix Real Time GPS Tracker with Free Server Tracking APP Inbuilt Battery for Car, Bus, Truck, Rickshaw, Scooty with Engine On and Off by Mobile APP and Website Anti Theft Alarm JXT-SER",
+                "details": "Jenix Real Time GPS Tracker with Free Server Tracking APP Inbuilt Battery for Car, Bus, Truck, Rickshaw, Scooty with Engine On and Off by Mobile APP and Website Anti Theft Alarm JXT-SER",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166410913440211590858494_1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3589,
+                "price": 1899,
+                "discount": 47,
+                "rating": 4.3
+            },
+            {
+                "name": "jenix 4G router",
+                "details": "Waterproof 4G Sim card router",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1664088181221420220925_121014_0000.png",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 4899,
+                "price": 2499,
+                "discount": 49,
+                "rating": 4.2
+            },
+            {
+                "name": "Jenix Waterproof UPS for 12V WiFi Router Broadband Modem | Backup Upto 4 Hours | WiFi Router UPS Power Backup During Power Cuts | UPS for WiFi Camera | 4G Router | Fiber Modem | Electronic Lock",
+                "details": "This Power Supply designed by Jenix. DC Cable output 5.5mm/2.1mm Male Plug No need of any power adaptor .. power adaptor of 12V 2.5Amp inbuilt in it ... So any device using 12V DC power adaptor up to 2.5Amp can be removed and this UPS directly used Just plug in AC power and Plug in DC plug into device.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1664035699972451cutXVjYeL_SL1195_.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 5299,
+                "price": 1199,
+                "discount": 77,
+                "rating": 4.4
+            },
+            {
+                "name": "Jenix Waterproof 4G LTE Wi-Fi Router, Support All sim Cards, High Speed, No Configuration Required, Up to 32 Devices Connectivity, Support DVR, NVR, WiFi Camera",
+                "details": "4G wifi router can be very useful to a single point of wifi network. Just insert any sim card into it and enjoy the same high speed internet as you would enjoy from your phone.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1663412897149141a1rI3DWOL_SL1500_.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 5999,
+                "price": 2499,
+                "discount": 58,
+                "rating": 4.3
+            },
+            {
+                "name": "Jenix 8 port full gigabyte desktop switch",
+                "details": "Full gigabyte 100/1000 MBPS Wall mount.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16640877716892IMG-20220922-WA0006.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 4999,
+                "price": 1499,
+                "discount": 70,
+                "rating": 4.7
+            },
+            {
+                "name": "jenix 5 port Full Gigabyte Desktop switch",
+                "details": "Full Gigabyte desktop switch. For long range transmission of data signal. Suitable for IP camera up to 8MP",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16640873988056IMG-20220922-WA0007.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1199,
+                "price": 1199,
+                "discount": 0,
+                "rating": 4.5
+            },
+            {
+                "name": "jenix Tuya WIFI GSM wireless House Burglar Alarm Home Security Alarm System siren smart life",
+                "details": "√Powered by Tuya, works with Amazon Alexa, Google Assistant & 30K other Tuya devices",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16644282161491Tuya-smart-alarm-panel-wifi-security-panel.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 38599,
+                "price": 17520,
+                "discount": 55,
+                "rating": 4.6
+            },
+            {
+                "name": "Jenix wireless smoke detector smoke siren alarm independent smoke detection and siren sound SD 11",
+                "details": "Independent Smoke siren suitable for ATM, kitchen, small restaurant. Smoke detection area around 30sq feet.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16644553407787Polish_20220929_180139632.png",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 980,
+                "discount": 67,
+                "rating": 4.3
+            },
+            {
+                "name": "12V DC power supply SMPS based for 4ch CCTV Camera",
+                "details": "12V DC SMPS Based power supply with short circuit protection, over voltage protection, suitable for up to 4 CCTV Cameras or 4 Sensors.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16674708211190CCTV-Power-Supply.jpeg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 999,
+                "price": 599,
+                "discount": 40,
+                "rating": 4.2
+            },
+            {
+                "name": "jenix wireless shutter sensor | shutter contact | rolling shutter sensor | 433Mhz - JXRS-433",
+                "details": "Metal material surface mount wireless frequency 433MHz sensing gap: pull-in-15mm; release-30mm",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16675405097659shutter-sensor.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 999,
+                "discount": 67,
+                "rating": 4.4
+            },
+            {
+                "name": "Jenix wireless vibration sensor 433Mhz JXVRS433",
+                "details": "This is only sensor, does not have any inbuilt siren, to trigger siren sound after motion detected for that you need security alarm panel from Jenix.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16675418223122wireless-vibration-sensor.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 1050,
+                "discount": 65,
+                "rating": 4.3
+            },
+            {
+                "name": "Jenix wireless glass break sensor | glass break shock detector | glass sensor JXGBS433",
+                "details": "This is only sensor, does not have any inbuilt siren, to trigger siren sound after motion detected for that you need security alarm panel from Jenix.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16675425853647Glass-Break-sensor.jpeg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 1399,
+                "discount": 53,
+                "rating": 4.5
+            },
+            {
+                "name": "Wired door contact Magnetic Switch Home Alarm System for Micro Controller Any Wired Security Alarm Panel, Node MCU",
+                "details": "Easy fixing, strong concealment, ideal for residential or commercial use. Designed for surface mount over the door or window frame.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166868737539561607421315_31g6robhp2L_SY450_11.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 299,
+                "price": 199,
+                "discount": 33,
+                "rating": 4.1
+            },
+            {
+                "name": "Jenix Plastic Wired Mini DC 12V Horn Siren, Home Security Sound Alarm System, 120dB, Standard Size",
+                "details": "Jenix Wired Mini Horn Siren Home Security Sound Alarm System 120dB DC 12V. 100% brand new and high quality Material: Plastic and Metal.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1691301740791663078955719061IBryyqFbL_SL1000_-cp.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 999,
+                "price": 299,
+                "discount": 70,
+                "rating": 4.2
+            },
+            {
+                "name": "Jenix PVC Camera Mount Bracket, Anti-Rust Camera Bracket/Stand/Holder for Indoor/Outdoor Dome and Bullet Camera Mount (White)",
+                "details": "Made of plastic, anti-rust and extend the service life of the bracket. The cable can be placed in the bracket, elegant and neat, also can protect the wires better.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17129047175296front.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 399,
+                "price": 199,
+                "discount": 50,
+                "rating": 4.5
+            },
+            {
+                "name": "(Pack of 10) Red Color Silicone Wristband RFID Tag For Access Control Swimming Pool And Marathon 13.56MHZ ISO14443A MiFare 1K Pack of 10",
+                "details": "Operating Frequency : 13.56 MHz High Frequency (HF)",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1712812796617535b7220f-056b-48c6-8b5b-28846701981d.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 4999,
+                "price": 1399,
+                "discount": 72,
+                "rating": 4.6
+            },
+            {
+                "name": "Heavy Duty Rotating TV Wall Mount For 14 To 42 Inch LED/HD/LCD TV Swivel Type Full Motion TV Wall Mount",
+                "details": "TV Wall Mount: 23 To 43 Inches",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17127516974308tv-wall-mount-bracket.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 799,
+                "price": 399,
+                "discount": 50,
+                "rating": 4.4
+            },
+            {
+                "name": "Universal LCD/LED TV Moving Wall Mount with 180 Degree Rotating for 14 to 26 inch 15 Kg, JS-15",
+                "details": "Universal LCD/LED TV Moving Wall Mount with 180 Degree Rotating for 14 to 26 inch LCD/LED. TV Load Capacity Upto 15 Kg Black.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1712732821628215-wall-mount-stand.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 499,
+                "price": 199,
+                "discount": 60,
+                "rating": 4.3
+            },
+            {
+                "name": "Ceiling Mount TV Stand Projector, Monitor Mount Height & Angle Adjustable for 26” to 65” - CP413",
+                "details": "Compatible with VESA Mounting holes – 100x100 mm, 100x200mm, 200x200mm, 200x300mm, 300x300mm, 200x400mm, 300x400mm, 400x400mm",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17127323247943Ceilling-mount-TV-stand.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3600,
+                "price": 1999,
+                "discount": 44,
+                "rating": 4.5
+            },
+            {
+                "name": "USB Male to Female Extension Cable - 1.5M long",
+                "details": "USB EXTENSION CABLE EQUIPPED WITH TYPE A MALE CONNECTOR ON ONE END TO PLUG INTO YOUR COMPUTER AND A TYPE A FEMALE CONNECTOR AT THE OTHER THAT ALLOWS FOR A SECOND USB CABLE TO BE INSERTED.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16690921446226USB-Male-to-Female-Extension-Cable.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 399,
+                "price": 130,
+                "discount": 67,
+                "rating": 4.2
+            },
+            {
+                "name": "DC Cable for CCTV camera - pigtail - Pack of 100 nos.",
+                "details": "12V DC Power Pigtail Male 5.5 * 2.1mm Cable Plug Wire for CCTV Security DC Cable Connector Wire Connector",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1668756451480310-10pcs-12v-dc-power-pigtail-male-5-5-2-1mm-cable-plug-wire-for-original-imafns8udvw2yxuh1.jpeg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 799,
+                "price": 499,
+                "discount": 38,
+                "rating": 4.3
+            },
+            {
+                "name": "BNC connector - copper wire 18cm long - Pack of 100 Nos.",
+                "details": "High performance cable for connecting a camera, CCTV, VCR, antenna, or other devices - No Soldering, No Crimping, Just Connect 2 wires and tap",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16687558584174bnc-connector-with-copper-wire-moulded-10pcs-18cm-bnc-golden-male-plug-cable-white-1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 1399,
+                "discount": 53,
+                "rating": 4.4
+            },
+            {
+                "name": "USB extender - 150 Feet Long USB extension using cat 5e/6 cable with RJ45 connector",
+                "details": "150 Ft USB (Male) To RJ45 + USB (Female) USB Over Cat5/5e/6 Extension Adapter RJ45 Up To 150ft Length USB LAN Extender",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1668754068877861PrjQqklhL_SL1170_1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 499,
+                "price": 399,
+                "discount": 20,
+                "rating": 4.1
+            },
+            {
+                "name": "jenix 48V POE injector single port 802.3at/af",
+                "details": "Simple plug and play POE injector, used to power POE devices (Camera, Biometric Machine, VDP, Router etc.) and extract data",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166814549329921610799028_Injector1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1999,
+                "price": 599,
+                "discount": 70,
+                "rating": 4.6
+            },
+            {
+                "name": "RJ 45 Passthrough Connector CAT6 - Pack of 100 nos.",
+                "rating": 4.5,
+                "reviews": 28,
+                "details": "Actual cat 6 RJ45 pass through connector pack of 100 nos.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16786919584081RJ45-pass-through-connector.jpeg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 999,
+                "price": 649,
+                "discount": 35
+            },
+            {
+                "name": "RJ45 Crimp Tool for Pass Through Connector End | EZ Cut, Strip, Crimp Network Cable | Heavy Duty Crimper for RJ11 & RJ45 Plugs | Professional Networking Cat5/5e & Cat6, Tools & Accessories",
+                "rating": 4.2,
+                "reviews": 17,
+                "details": "Reliable crimp tool with steel body for durability with ergonomic comfort grips.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16786881471642pass-through-crimping-tool.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1299,
+                "price": 699,
+                "discount": 46
+            },
+            {
+                "name": "12V to 220V Inverter - 100W",
+                "rating": 4.8,
+                "reviews": 42,
+                "details": "DC inverter 12VDC 220V AC ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1711100570535112V-DC-inverter.jpeg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 999,
+                "price": 400,
+                "discount": 60
+            },
+            {
+                "name": "Jenix Electrical Toggle Switch, SPDT, NO NC, 2 Way Switch ON OFF ON, 3 A/250V AC, 3 PIN NO COM NC Terminal - PACK OF 10",
+                "rating": 4.5,
+                "reviews": 35,
+                "details": "- ON-OFF-ON Type Switch - 6mm Dia in Panel for fixing - NO-C-NC 3 terminal for SPDT",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16884575063243jenix-spdt-toggle-switch.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 299,
+                "price": 149,
+                "discount": 50
+            },
+            {
+                "name": "ESP8266 ESP-01 5V WiFi Relay Module ( Pack of 10 Nos.) ESP01 Relay Module",
+                "rating": 4.3,
+                "reviews": 23,
+                "details": "Onboard Module: ESP8266 wifi module; in AP mode it can connect with 5 Clients at the same time",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16751601964155ESP8266-WiFi-Serial-Transceiver-Module.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2990,
+                "price": 2478,
+                "discount": 17
+            },
+            {
+                "name": "1n4742a zener diode 12V 1W - Pack of 100 nos",
+                "rating": 4.7,
+                "reviews": 30,
+                "details": "details Zener Voltage 12V Zener Number 1N4742A",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16695358646101images-47.jpeg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1000,
+                "price": 200,
+                "discount": 80
+            },
+            {
+                "name": "KSP 44 bipolar transistor - Pack of 50 nos.",
+                "rating": 4.6,
+                "reviews": 15,
+                "details": "Characteristics of KSP44 Transistor",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16695354217900IMG-20221127-WA0002.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 779,
+                "discount": 74
+            },
+            {
+                "name": "Tuya Smartlife WiFi 1ch relay module for door lock , access control , trigger mode and delay time trigger by mobile app with 433Mhz Remote receiver",
+                "rating": 4.4,
+                "reviews": 19,
+                "details": "Tuya Smartlife app 433 Mhz Universal Wireless Remote Control Switch DC 12V Wifi 1CH Relay Receiver Module",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16690960119619tuya-relay-wifi.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 1099,
+                "discount": 63
+            },
+            {
+                "name": "E18-D80NK Adjustable IR Sensor Proximity Switch 3-80cm Range - NC Type low level trigger",
+                "rating": 4.2,
+                "reviews": 25,
+                "details": "The E18-D80NK Adjustable IR Sensor Proximity Switch 3-80cm Range is a set of transmitter and receiver in one of the photoelectric switch sensor. The detection distance can be adjusted according to the demand. The sensor has a detection range of 3-80cm.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1668686702411960f7c5fb85a5f11.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 699,
+                "price": 251,
+                "discount": 64
+            },
+            {
+                "name": "Jenix Float Switch Sensor Water Level Control Tank Overflow Control Sensor Automatic Water Motor Off when Tank Full, 3 Meter Long Wire JXFC3W",
+                "rating": 4.6,
+                "reviews": 32,
+                "details": "Fully automatic water level controller.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166868552864841628597628_21.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 599,
+                "price": 399,
+                "discount": 33
+            },
+            {
+                "name": "Jenix 5V 30A Relay Module Optocoupler Isolation High Power Relay High/Low Level Trigger suitable for all Micro controller",
+                "rating": 4.7,
+                "reviews": 38,
+                "details": "◇ ANTI-INTERFERENCE---Made of the high quality miniature optocoupler, the relay module is of anti-interference ability, stable performance",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/1664456081938761gNb6B6hnL_SL1258_.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 1599,
+                "price": 683,
+                "discount": 57
+            },
+            {
+                "name": "mini size wifi camera night vision -MS1080P",
+                "details": "HD 1080P Night Vision Mini Camera Wifi Smart Home IP Wireless Security Camera Night Vision: auto night vision features provide uninterrupted surveillance even in dark rooms.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16693617231590MSa.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 4999,
+                "price": 3299,
+                "discount": 34,
+                "rating": 4.5
+            },
+            {
+                "name": "Jenix Spy Camera in WiFi Mobile Charger Mini Camera Inbuilt in Mobile Charger",
+                "details": "Micro Camera Inbuilt in Mobile Charger WIFI Local in AP mode",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166900730854795ed2913511a84front1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 4999,
+                "price": 2599,
+                "discount": 48,
+                "rating": 4.2
+            },
+            {
+                "name": "jenix WiFi Spy Camera Bluetooth Speaker with 4K UHD Night Vision Remote (JXSP4K1)",
+                "details": "This is a 4K UHD Camera - 4K Technology 8MP Camera inbuilt in Bluetooth Speaker , Ultra HD clarity and Clear Sound with Dancing Color Light near to Speaker edges",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166900698397351595672476_71VWVk4jqeL_SL1001_11.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 10999,
+                "price": 4999,
+                "discount": 55,
+                "rating": 4.8
+            },
+            {
+                "name": "Jenix Wireless WIFI Endoscope Camera - 3 meter long inspection camera",
+                "details": "endoscopy camera to find things in drain , hole etc.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16688334532638untitled1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 4999,
+                "price": 2599,
+                "discount": 48,
+                "rating": 4.0
+            },
+            {
+                "name": "Jenix 12MP Night Vision Spy Camera Hidden in Electric Lighter Audio Video Micro Hidden Camera Portable Mini Camera",
+                "details": "12MP Night Vision Recording Camera",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/166868692439471612007606_spy11.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3999,
+                "price": 2599,
+                "discount": 35,
+                "rating": 4.3
+            },
+            {
+                "name": "Jenix audio bug listen audio using sim card",
+                "details": "Insert sim card ( after converting sim into 2G , use only BSNL, Airtel , VI sim , Does not support JIO sim) and make call to sim number and start listing audio ",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/16646827487195IMG-20221002-WA0005.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 1050,
+                "discount": 65,
+                "rating": 4.1
+            },
+            {
+                "name": "4G LTE Plug & Router",
+                "details": "4G Router 4G LTE CPE Wi-Fi Router for Home & Personal Computer indoor use",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171894791010434-g-router-inside-box.jpg",
+                        "alt": "Inside the box"
+                    },
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171894791556744G-router.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3999,
+                "price": 1300,
+                "rating": 4.2,
+                "discount": 67
+            },
+            {
+                "name": "long range UHF rfid tag Iso18000-6C Long Range Adhesive Inlay Label , PET material (Pack of 1000)",
+                "details": "Frequency: UHF 860-960MHZ Chip: U8 Protocol: EPC Class1 Gen2, ISO18000-6C",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17189471007790a7c4daf1-e324-4007-88f7-0de060b99458.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 33000,
+                "price": 15000,
+                "rating": 4.7,
+                "discount": 55
+            },
+            {
+                "name": "Contactless card reader Proximity card reader 125 kHz RFID reader with WG26/34 Out to add with door controller IP65 Smart Card Reader- 125khzWG26/34",
+                "details": "This is Black WG26/34 125KHz RFID Contactless IP65 Smart Card Reader, a device used for reading RFID cards or tags in various applications.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17138668725790black-wg26-34-125khz-rfid-contactless-ip65-smart-card-reader-1.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 315,
+                "price": 315,
+                "rating": 4.9,
+                "discount": 0
+            },
+            {
+                "name": "jenix 2 door intelligent Access Control Card ,Network TCP/IP Access Control Panel Board Reader for Wiegand 4 input 2 Door Access Controller ",
+                "details": "Flexible user rights settings, quick settings, support for multi-user superision. Normal shift&multi-shifts time attendance management.Conenient to check and query,report exported to excel which reisable and printable report form,unlocking at definite time.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171386643332152-door-front.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 34999,
+                "price": 4500,
+                "rating": 4.1,
+                "discount": 87
+            },
+            {
+                "name": "jenix Access Control Board,Network TCP/IP Access Control Panel Board Reader for Wiegand 1 Door Use Access Controller for Boom Barrier , Sliding Gate Motor, Bank, Factory , Locker room",
+                "details": "Flexible user rights settings, quick settings, support for multi-user superision. Normal shift&multi-shifts time attendance management.Conenient to check and query,report exported to excel which reisable and printable report form,unlocking at definite time.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17122206498126singe-door-access-controller.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 14999,
+                "price": 4225,
+                "rating": 4.6,
+                "discount": 72
+            },
+            {
+                "name": "jenix Access Control Board,Network TCP/IP Access Control Panel Board Reader for Wiegand 4 Door Use Access Controller",
+                "details": "Flexible user rights settings, quick settings, support for multi-user superision. Normal shift&multi-shifts time attendance management.Conenient to check and query,report exported to excel which reisable and printable report form,unlocking at definite time.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/171212422613414-door-access-controller.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 34999,
+                "price": 6500,
+                "rating": 4.6,
+                "discount": 81
+            },
+            {
+                "name": "jenix hand Held Metal Detector, Portable Light-weight Security Scanner Wand HHMD",
+                "details": "Hand Held Metal Detector With Audio Visual & Vibration Alert. The original Rugged Hand Held Metal Detector with Battery Charging Station (with 9Volt Ni-Cd Rechargeable Battery & Charger).",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110919433225super-wand-metal-detector.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 3999,
+                "price": 1450,
+                "rating": 4.4,
+                "discount": 64
+            },
+            {
+                "name": "uhf integrated reader for Parking System Access Control Jewellery tag , Bike race , Horse race Waterproof Integrated tag UHF Reader antenna Access Control long range UHF-pro - RJ45",
+                "details": "Multi-protocol compatibility, rich communication interface, full support for 18000-6B and EPC Protocols), RJ45-TCP/IP/ UDP , RS485, RS232, Wiegand , USB  and other communications.Long reading distance, and the farthest reading distance is 7-15m/21-45ft.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17135196676805uhf12-reader.jfif",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 34999,
+                "price": 17500,
+                "rating": 4.7,
+                "discount": 50
+            },
+            {
+                "name": "vehicle jewellery tag Reader, UHF Passive Electronic Tag RFID Reader for Parking System Access Control Jewellery tag , Bike race , Horse race Waterproof Passive Electronic TAG RFID Integrated Card Reader Access Control range 7 meter -UHF7D - RJ45",
+                "details": "Multi-protocol compatibility, rich communication interface, full support for 18000-6B and EPC Protocols), RJ45-TCP/IP/ UDP , RS485, RS232, Wiegand , USB  and other communications.Long reading distance, and the farthest reading distance is 5-7m/16.4-21ft.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110882369075vehical-detection.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 34999,
+                "price": 12500,
+                "rating": 4.9,
+                "discount": 64
+            },
+            {
+                "name": "vehicle jewellery tag Reader, UHF Passive Electronic Tag RFID Reader for Parking System Access Control Jewellery tag , Bike race , Horse race Waterproof Passive Electronic TAG RFID Integrated Card Reader Access Control range 7 meter -UHF7D- USB",
+                "details": "Multi-protocol compatibility, rich communication interface, full support for 18000-6B and EPC Protocols), RS485, RS232, Wiegand , USB  and other communications.Long reading distance, and the farthest reading distance is 5-7m/16.4-21ft.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110877146260B701-application.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 34999,
+                "price": 10500,
+                "rating": 4.5,
+                "discount": 70
+            },
+            {
+                "name": "boom barrier mild steel powder coated fully automatic boom barrier for parking society factory high rise building , telescopic Boom Barrier Gate with 6 meter Boom and Remote and preventive fall sensor CMP800",
+                "details": "Fully Automatic Boom Barrier Features:Gate Opening/Closing Time : adjustable from 1.5 sec to 6 sec",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110860511347jenix-boom-barrier-gate.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 79999,
+                "price": 28500,
+                "rating": 4.2,
+                "discount": 64
+            },
+            {
+                "name": "jenix Hand Held Metal Detectors, Portable Light-Weight Security Super Scanner HHMD bat",
+                "details": "HIGH SENSITIVITY and FAST DETECTING: Detecting temperature range is -15 ~ 45?, large detecting probe area, even Detects Small Hidden Metal Objects.",
+                "img": [
+                    {
+                        "url": "https://outdocart.s3.amazonaws.com/uploads/jain-enterprises/productImages/full/17110848855251hand-held-metal-detector.jpg",
+                        "alt": "Product image"
+                    }
+                ],
+                "mrp": 2999,
+                "price": 1350,
+                "rating": 4.7,
+                "discount": 55
+            }
+        ],
+        "Mixed": []
     }
-]
+}

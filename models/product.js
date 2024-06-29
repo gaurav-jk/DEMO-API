@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
 
+// Define the Product schema
 const productSchema = new mongoose.Schema({
     name: {
         type: String,
@@ -9,7 +10,7 @@ const productSchema = new mongoose.Schema({
         type: String,
         required: [true, "Product details must be provided"],
     },
-    img:  [
+    img: [
         {
             url: { type: String, required: true },
             alt: { type: String, default: '' } // Optional, can be adjusted based on your needs
@@ -39,11 +40,25 @@ const productSchema = new mongoose.Schema({
     company: {
         type: String,
         enum: {
-            // values: ["ikea", "liddy", "caressa", "marcos"],
             values: ["JENIX"],
             message: "{VALUE} is not supported",
         },
-        },
+    }
 });
 
-module.exports = mongoose.model("Product",productSchema);
+// Define the main schema with categories
+const categorySchema = new mongoose.Schema({
+    company: {
+        type: String,
+        enum: {
+            values: ["JENIX"],
+            message: "{VALUE} is not supported",
+        },
+    },
+    categories: {
+        type: Map,
+        of: [productSchema]
+    }
+});
+
+module.exports = mongoose.model("Category", categorySchema);
