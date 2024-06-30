@@ -3,8 +3,10 @@ const express = require("express");
 const app = express();
 const connectDB = require("./db/connect")
 const products_routes = require("./routes/products")
+const categories_routes = require("./routes/categories");
 const PORT = process.env.PORT || 5000;
 
+delete require.cache[require.resolve('./models/category')];
 // Middleware to enable CORS
 app.use((req, res, next) => {
     res.header('Access-Control-Allow-Origin', '*'); // or specify a domain instead of '*'
@@ -28,6 +30,7 @@ app.get("/", (req, res) => {
 });
 //middleware or to set router
 app.use("/api/products", products_routes);
+app.use("/api/categories", categories_routes);
 
 const start = async () => {
     try {
