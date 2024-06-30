@@ -6,7 +6,7 @@ const products_routes = require("./routes/products")
 const categories_routes = require("./routes/categories");
 const PORT = process.env.PORT || 5000;
 
-delete require.cache[require.resolve('./models/category')];
+delete require.cache[require.resolve('./models/categories')];
 // Middleware to enable CORS
 app.use((req, res, next) => {
     res.header('Access-Control-Allow-Origin', '*'); // or specify a domain instead of '*'
