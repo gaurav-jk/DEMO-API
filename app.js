@@ -30,7 +30,7 @@ app.get("/", (req, res) => {
 });
 //middleware or to set router
 app.use("/api/products", products_routes);
-app.use("/api/:categoryName", categories_routes);
+app.use("/api/categories/categories/:categoryName", categories_routes);
 
 const start = async () => {
     try {
