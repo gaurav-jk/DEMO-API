@@ -32,6 +32,8 @@ app.get("/", (req, res) => {
 app.use("/api/products", products_routes);
 app.use("/api/categories/categories", categories_routes);
 
+
+// Start the server
 const start = async () => {
     try {
         await connectDB(process.env.MONGODB_URL);

@@ -8,7 +8,7 @@ const Product = require("../models/product")
 //         console.log(queryObject);
 //     }
 
-
+// Fetch a product by all product
 const getAllProducts = async (req,res) =>{
 const {company, name,featured ,sort,select } = req.query;
 const queryObject = {};
@@ -47,6 +47,21 @@ const queryObject = {};
     res.status(200).json({ products, nbHits: products.length});
 };
 
+// Fetch a product by ID
+const getProductById = async (req, res) => {
+    try {
+        const productId = req.params.id;
+        const product = await Product.findById(productId);
+        if (!product) {
+            return res.status(404).json({ message: 'Product not found' });
+        }
+        res.json(product);
+    } catch (err) {
+        res.status(500).json({ message: err.message });
+    }
+};
+
+// Fetch a product by testing
 const getAllProductsTesting = async (req,res) =>{
     const myData = await Product.find(req.query).skip(2);
     // const myData = await Product.find(req.query).select("name");
@@ -56,4 +71,4 @@ const getAllProductsTesting = async (req,res) =>{
     res.status(200).json({ myData});
 };
 
-module.exports = {getAllProducts,getAllProductsTesting}; 
+module.exports = {getAllProducts,getAllProductsTesting, getProductById,}; 
